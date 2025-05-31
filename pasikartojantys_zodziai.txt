@@ -1,0 +1,175 @@
+amerikoje: 2 kartus, eilutėse: 19 29 
+amerikos: 4 kartus, eilutėse: 1 7 13 31 
+anglų: 5 kartus, eilutėse: 13 15 19 21 31 
+apie: 5 kartus, eilutėse: 3 13 21 35 
+ar: 7 kartus, eilutėse: 5 17 25 27 31 33 
+arba: 2 kartus, eilutėse: 27 29 
+asmeniškai: 2 kartus, eilutėse: 7 19 
+atrasti: 3 kartus, eilutėse: 23 31 35 
+atrodo: 2 kartus, eilutėse: 21 35 
+atvažiavau: 3 kartus, eilutėse: 9 13 15 
+autorius: 2 kartus, eilutėse: 21 25 
+autorių: 5 kartus, eilutėse: 17 21 
+aš: 8 kartus, eilutėse: 7 13 15 29 31 35 
+balades: 2 kartus, eilutėse: 11 19 
+balsą: 2 kartus, eilutėse: 23 35 
+bei: 2 kartus, eilutėse: 3 29 
+bendrauti: 2 kartus, eilutėse: 27 
+bendravimas: 3 kartus, eilutėse: 23 33 35 
+bet: 7 kartus, eilutėse: 11 19 21 27 35 
+buvo: 3 kartus, eilutėse: 7 9 
+būtų: 2 kartus, eilutėse: 27 31 
+daug: 6 kartus, eilutėse: 7 11 21 23 35 
+davė: 2 kartus, eilutėse: 23 35 
+dažniausiai: 2 kartus, eilutėse: 7 31 
+diasporos: 10 kartus, eilutėse: 3 9 25 27 29 31 
+druskininkų: 2 kartus, eilutėse: 23 35 
+dėl: 2 kartus, eilutėse: 11 27 
+dėstyti: 2 kartus, eilutėse: 15 
+dėsčiau: 2 kartus, eilutėse: 13 
+emigrantai: 3 kartus, eilutėse: 29 31 
+esmės: 3 kartus, eilutėse: 5 7 29 
+esu: 6 kartus, eilutėse: 7 19 21 35 
+formavausi: 2 kartus, eilutėse: 23 35 
+fulbright: 2 kartus, eilutėse: 11 15 
+gal: 2 kartus, eilutėse: 25 35 
+gimė: 2 kartus, eilutėse: 27 29 
+grįžti: 2 kartus, eilutėse: 31 
+gyvenime: 2 kartus, eilutėse: 3 7 
+gyvenome: 2 kartus, eilutėse: 13 19 
+ir: 56 kartus, eilutėse: 1 3 5 7 9 11 13 15 19 21 23 25 27 29 31 35 
+istoriją: 2 kartus, eilutėse: 5 29 
+iš: 12 kartus, eilutėse: 5 7 9 13 21 29 31 
+išsilavinimą: 2 kartus, eilutėse: 29 
+išvertusi: 2 kartus, eilutėse: 19 21 
+jau: 3 kartus, eilutėse: 7 21 27 
+jauna: 2 kartus, eilutėse: 23 35 
+jav: 3 kartus, eilutėse: 1 5 29 
+jeigu: 2 kartus, eilutėse: 21 31 
+jie: 2 kartus, eilutėse: 27 29 
+jo: 3 kartus, eilutėse: 19 23 35 
+jos: 2 kartus, eilutėse: 3 7 
+jūsų: 3 kartus, eilutėse: 5 17 25 
+jų: 2 kartus, eilutėse: 27 29 
+kad: 10 kartus, eilutėse: 7 21 27 29 31 35 
+kai: 4 kartus, eilutėse: 21 23 31 35 
+kaip: 6 kartus, eilutėse: 5 11 23 35 
+kalba: 3 kartus, eilutėse: 15 19 21 
+kalbos: 2 kartus, eilutėse: 3 15 
+kalbą: 3 kartus, eilutėse: 19 21 31 
+kartos: 3 kartus, eilutėse: 23 35 
+kartą: 3 kartus, eilutėse: 7 9 15 
+kasmet: 2 kartus, eilutėse: 23 35 
+kelionės: 4 kartus, eilutėse: 9 11 35 
+kitais: 2 kartus, eilutėse: 23 35 
+kitas: 2 kartus, eilutėse: 15 35 
+kitus: 4 kartus, eilutėse: 23 27 31 35 
+kitų: 3 kartus, eilutėse: 3 21 31 
+knygą: 2 kartus, eilutėse: 17 21 
+kokia: 2 kartus, eilutėse: 7 
+kukučio: 2 kartus, eilutėse: 11 19 
+kultūros: 2 kartus, eilutėse: 21 35 
+kultūrą: 2 kartus, eilutėse: 7 29 
+kuria: 2 kartus, eilutėse: 19 29 
+kurie: 7 kartus, eilutėse: 21 27 29 31 
+kurią: 3 kartus, eilutėse: 9 19 29 
+ką: 2 kartus, eilutėse: 11 15 
+kūryboje: 2 kartus, eilutėse: 1 5 
+kūrybos: 2 kartus, eilutėse: 3 19 
+l: 3 kartus, eilutėse: 3 
+labai: 6 kartus, eilutėse: 7 9 11 21 23 35 
+laikais: 2 kartus, eilutėse: 21 35 
+lietuva: 5 kartus, eilutėse: 3 7 29 31 
+lietuvai: 2 kartus, eilutėse: 11 29 
+lietuviais: 4 kartus, eilutėse: 23 33 35 
+lietuvių: 12 kartus, eilutėse: 1 3 5 7 15 17 21 25 35 
+lietuvoje: 6 kartus, eilutėse: 3 5 7 21 25 29 
+lietuvos: 12 kartus, eilutėse: 1 5 7 9 11 19 21 35 
+lietuvą: 6 kartus, eilutėse: 9 11 13 15 
+literatūra: 2 kartus, eilutėse: 3 17 
+literatūros: 4 kartus, eilutėse: 11 13 15 29 
+literatūrą: 2 kartus, eilutėse: 13 15 
+m: 6 kartus, eilutėse: 15 19 23 35 
+man: 13 kartus, eilutėse: 7 9 19 21 23 27 35 
+mane: 2 kartus, eilutėse: 19 21 
+mano: 5 kartus, eilutėse: 9 15 19 21 35 
+martinaičio: 3 kartus, eilutėse: 11 19 
+martinaičiu: 2 kartus, eilutėse: 23 35 
+menas: 2 kartus, eilutėse: 19 35 
+mes: 7 kartus, eilutėse: 11 19 27 29 31 
+metais: 2 kartus, eilutėse: 11 15 
+metu: 5 kartus, eilutėse: 9 11 13 23 35 
+metus: 3 kartus, eilutėse: 3 13 15 
+metų: 3 kartus, eilutėse: 7 13 
+mūsų: 4 kartus, eilutėse: 11 27 29 31 
+namo: 2 kartus, eilutėse: 31 
+ne: 4 kartus, eilutėse: 3 27 35 
+negu: 2 kartus, eilutėse: 29 35 
+nepaisant: 2 kartus, eilutėse: 19 31 
+nepriklausomybę: 3 kartus, eilutėse: 3 11 31 
+nes: 5 kartus, eilutėse: 11 21 27 31 
+neskatina: 2 kartus, eilutėse: 21 
+net: 2 kartus, eilutėse: 19 31 
+netgi: 2 kartus, eilutėse: 7 9 
+nors: 3 kartus, eilutėse: 1 15 33 
+nuo: 2 kartus, eilutėse: 1 7 
+nuvažiuoti: 2 kartus, eilutėse: 23 35 
+o: 5 kartus, eilutėse: 7 15 21 25 35 
+padėjo: 2 kartus, eilutėse: 23 35 
+palikti: 2 kartus, eilutėse: 29 
+pasaulio: 2 kartus, eilutėse: 25 35 
+patirtis: 3 kartus, eilutėse: 5 27 29 
+per: 2 kartus, eilutėse: 7 27 
+pirmasis: 2 kartus, eilutėse: 5 25 
+pirmą: 2 kartus, eilutėse: 9 15 
+poetinį: 2 kartus, eilutėse: 23 35 
+požiūrį: 2 kartus, eilutėse: 3 29 
+programos: 2 kartus, eilutėse: 11 15 
+rašytoja: 4 kartus, eilutėse: 1 23 31 35 
+rašytojai: 3 kartus, eilutėse: 21 29 35 
+rašytojais: 9 kartus, eilutėse: 23 27 29 33 35 
+rašytojos: 2 kartus, eilutėse: 23 35 
+rašytojus: 3 kartus, eilutėse: 3 25 
+rašytojų: 5 kartus, eilutėse: 21 25 31 35 
+reikšminga: 3 kartus, eilutėse: 23 27 35 
+renginius: 2 kartus, eilutėse: 23 35 
+rudenį: 2 kartus, eilutėse: 23 35 
+santykis: 2 kartus, eilutėse: 5 17 
+savo: 12 kartus, eilutėse: 1 5 7 11 15 21 23 27 31 33 35 
+situaciją: 2 kartus, eilutėse: 11 
+sovietmečiu: 2 kartus, eilutėse: 9 21 
+stengiuosi: 2 kartus, eilutėse: 23 35 
+su: 21 kartus, eilutėse: 3 5 7 9 11 13 15 17 23 27 33 35 
+sugrįžti: 2 kartus, eilutėse: 9 11 
+suprasti: 3 kartus, eilutėse: 7 11 
+susipažinti: 3 kartus, eilutėse: 7 23 35 
+svarbu: 6 kartus, eilutėse: 7 23 25 27 31 35 
+svetur: 2 kartus, eilutėse: 27 29 
+sąjūdžio: 2 kartus, eilutėse: 3 11 
+tad: 2 kartus, eilutėse: 11 21 
+tada: 5 kartus, eilutėse: 7 9 13 21 29 
+tai: 7 kartus, eilutėse: 1 7 21 23 31 35 
+tapatybės: 2 kartus, eilutėse: 3 
+tapatybę: 2 kartus, eilutėse: 27 29 
+tautos: 2 kartus, eilutėse: 1 5 
+tačiau: 7 kartus, eilutėse: 5 7 11 21 31 35 
+temų: 2 kartus, eilutėse: 3 31 
+tiek: 2 kartus, eilutėse: 11 19 
+tiesiog: 2 kartus, eilutėse: 21 31 
+tik: 5 kartus, eilutėse: 11 15 21 29 
+to: 2 kartus, eilutėse: 27 31 
+toliau: 2 kartus, eilutėse: 29 31 
+tuo: 4 kartus, eilutėse: 11 13 23 35 
+tėvynės: 2 kartus, eilutėse: 29 
+tų: 2 kartus, eilutėse: 7 29 
+universitete: 2 kartus, eilutėse: 13 15 
+užsienyje: 2 kartus, eilutėse: 27 
+viena: 3 kartus, eilutėse: 7 15 19 
+vieni: 3 kartus, eilutėse: 27 31 
+vilniaus: 3 kartus, eilutėse: 13 15 
+vilniuje: 3 kartus, eilutėse: 13 15 25 
+vincė: 2 kartus, eilutėse: 1 3 
+vis: 2 kartus, eilutėse: 11 19 
+yra: 7 kartus, eilutėse: 3 7 15 19 29 33 35 
+į: 21 kartus, eilutėse: 3 5 7 9 11 13 15 19 21 23 29 31 35 
+žmonių: 2 kartus, eilutėse: 11 31 
