@@ -133,10 +133,7 @@ int main()
     while (in2 >> url_zodis)
     {
         if (ar_zodis_turi_tld(url_zodis, domenai)) {
-            out2 << url_zodis << " - turi galiojančią TLD" << endl;
-        }
-        else {
-            out2 << url_zodis << " - neturi galiojančios TLD arba neturi taško" << endl;
+            out2 << url_zodis << endl;
         }
     }
 
