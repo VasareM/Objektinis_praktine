@@ -65,6 +65,17 @@ bool ar_zodis_turi_tld(const string& zodis, const set<string>& domenai)
     // Patikriname ar ending yra tarp mūsų žinomų TLD
     return domenai.find(pabaiga) != domenai.end();
 }
+string trim_punctuation(const string& s) {
+    size_t end = s.size();
+    while (end > 0 && (
+        s[end - 1] == '.' || s[end - 1] == ',' || s[end - 1] == '!' ||
+        s[end - 1] == '?' || s[end - 1] == ';' || s[end - 1] == ':' ||
+        s[end - 1] == '-' || (unsigned char)s[end - 1] == 0x96 // en dash in Windows-1252
+        )) {
+        --end;
+    }
+    return s.substr(0, end);
+}
 
 int main()
 {
@@ -132,11 +143,13 @@ int main()
     string url_zodis;
     while (in2 >> url_zodis)
     {
-        if (ar_zodis_turi_tld(url_zodis, domenai)) {
-            out2 << url_zodis << endl;
+        string trimmed_url = trim_punctuation(url_zodis);
+        std::transform(trimmed_url.begin(), trimmed_url.end(), trimmed_url.begin(), ::tolower);
+
+        if (ar_zodis_turi_tld(trimmed_url, domenai)) {
+            out2 << trimmed_url << endl;
         }
     }
-
     in2.close();
     out2.close();
 
