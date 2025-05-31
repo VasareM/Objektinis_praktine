@@ -1,0 +1,6 @@
+example.com - neturi galiojančios TLD arba neturi taško
+hello.lt - neturi galiojančios TLD arba neturi taško
+notadomain - neturi galiojančios TLD arba neturi taško
+site.net - neturi galiojančios TLD arba neturi taško
+wrong.tldx - neturi galiojančios TLD arba neturi taško
+my.website.org - neturi galiojančios TLD arba neturi taško
