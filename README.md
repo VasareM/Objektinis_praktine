@@ -1,1 +1,1 @@
-# Objektinis_praktine
+# Pasikartojančių žodžių skaičiavimo ir URL paieškos programa
