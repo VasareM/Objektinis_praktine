@@ -17,5 +17,19 @@ int main()
     cout << "a: " << a << "b: " << b ;
     kompleksinis_skaicius c;
     c=a+b; // operator+
-    cout << "operator+" << c.realioji() << " " << c.menamoji() << endl;
+    cout << "operator+ a+b " << c.realioji() << " " << c.menamoji() << endl;
+    c=a-b; // operator-
+    cout << "operator- a-b " << c.realioji() << " " << c.menamoji() << endl;
+
+    /*
+    zr del tu cout 
+    c = a + b;
+  std::cout<< c ;
+  std::cout<< a - b;
+    */
+    a+=b;
+    cout << "operator+= a: " << a;
+    a-=b;
+    cout << "operator-= a: " << a;
+
 }

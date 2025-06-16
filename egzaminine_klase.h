@@ -20,12 +20,25 @@ class kompleksinis_skaicius
         void setIm(double menamoji) {im=menamoji;}
 
         // papildomi metodai
-        //operator+,operator-, operator*, operator+=, operator-=, operator*=, operator++, operator-- 
+        //operator*, operator+=, operator-=, operator*=, operator++, operator-- 
         friend kompleksinis_skaicius operator+ (const kompleksinis_skaicius &a, const kompleksinis_skaicius &b) {
             return kompleksinis_skaicius {a.realioji() + b.realioji(), a.menamoji() + b.menamoji()};
         }
-        // perdengti operatoriai input output
-        //operator<<, operator>>
+        friend kompleksinis_skaicius operator- (const kompleksinis_skaicius &a, const kompleksinis_skaicius &b) {
+            return kompleksinis_skaicius {a.realioji() - b.realioji(), a.menamoji() - b.menamoji()};
+        }
+        kompleksinis_skaicius operator+= (const kompleksinis_skaicius a) {
+            re+= a.re; 
+            im+=a.im;
+            return *this;
+        }
+        kompleksinis_skaicius operator-= (const kompleksinis_skaicius a) {
+            re-= a.re; 
+            im-=a.im;
+            return *this;
+        }
+
+        //operatoriai input output
         friend std::ostream& operator<<(std::ostream& out, const kompleksinis_skaicius &a) {
             out << a.re << (a.im < 0 ? " - " : " + ") << std::abs(a.im) << "i" << endl;
             return out;
