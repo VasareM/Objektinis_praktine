@@ -20,6 +20,8 @@ int main()
     cout << "operator+ a+b " << c.realioji() << " " << c.menamoji() << endl;
     c=a-b; // operator-
     cout << "operator- a-b " << c.realioji() << " " << c.menamoji() << endl;
+    c=a*b; // operator-
+    cout << "operator* a*b " << c.realioji() << " " << c.menamoji() << endl;
 
     /*
     zr del tu cout 
@@ -31,5 +33,7 @@ int main()
     cout << "operator+= a: " << a;
     a-=b;
     cout << "operator-= a: " << a;
+    a*=b;
+    cout << "operator*= a: " << a;
 
 }

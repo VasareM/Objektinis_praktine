@@ -20,12 +20,17 @@ class kompleksinis_skaicius
         void setIm(double menamoji) {im=menamoji;}
 
         // papildomi metodai
-        //operator*, operator+=, operator-=, operator*=, operator++, operator-- 
+        //operator*,, operator++, operator-- 
         friend kompleksinis_skaicius operator+ (const kompleksinis_skaicius &a, const kompleksinis_skaicius &b) {
             return kompleksinis_skaicius {a.realioji() + b.realioji(), a.menamoji() + b.menamoji()};
         }
         friend kompleksinis_skaicius operator- (const kompleksinis_skaicius &a, const kompleksinis_skaicius &b) {
             return kompleksinis_skaicius {a.realioji() - b.realioji(), a.menamoji() - b.menamoji()};
+        }
+        friend kompleksinis_skaicius operator* (kompleksinis_skaicius &a, const kompleksinis_skaicius &b) {
+            double new_re = a.realioji() * b.realioji() - a.menamoji() * b.menamoji();
+            double new_im = a.realioji() * b.menamoji() + a.menamoji() * b.realioji(); 
+            return kompleksinis_skaicius {new_re, new_im};
         }
         kompleksinis_skaicius operator+= (const kompleksinis_skaicius a) {
             re+= a.re; 
@@ -35,6 +40,13 @@ class kompleksinis_skaicius
         kompleksinis_skaicius operator-= (const kompleksinis_skaicius a) {
             re-= a.re; 
             im-=a.im;
+            return *this;
+        }
+        kompleksinis_skaicius operator*= (const kompleksinis_skaicius a) {
+            double new_re= re*a.re-im*a.im; 
+            double new_im= re*a.im+im*a.re;
+            re=new_re;
+            im=new_im;
             return *this;
         }
 
