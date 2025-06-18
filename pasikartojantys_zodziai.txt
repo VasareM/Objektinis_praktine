@@ -1,175 +1,1842 @@
-amerikoje: 2 kartus, eilutėse: 19 29 
-amerikos: 4 kartus, eilutėse: 1 7 13 31 
-anglų: 5 kartus, eilutėse: 13 15 19 21 31 
-apie: 5 kartus, eilutėse: 3 13 21 35 
-ar: 7 kartus, eilutėse: 5 17 25 27 31 33 
-arba: 2 kartus, eilutėse: 27 29 
-asmeniškai: 2 kartus, eilutėse: 7 19 
-atrasti: 3 kartus, eilutėse: 23 31 35 
-atrodo: 2 kartus, eilutėse: 21 35 
-atvažiavau: 3 kartus, eilutėse: 9 13 15 
-autorius: 2 kartus, eilutėse: 21 25 
-autorių: 5 kartus, eilutėse: 17 21 
-aš: 8 kartus, eilutėse: 7 13 15 29 31 35 
-balades: 2 kartus, eilutėse: 11 19 
-balsą: 2 kartus, eilutėse: 23 35 
-bei: 2 kartus, eilutėse: 3 29 
-bendrauti: 2 kartus, eilutėse: 27 
-bendravimas: 3 kartus, eilutėse: 23 33 35 
-bet: 7 kartus, eilutėse: 11 19 21 27 35 
-buvo: 3 kartus, eilutėse: 7 9 
-būtų: 2 kartus, eilutėse: 27 31 
-daug: 6 kartus, eilutėse: 7 11 21 23 35 
-davė: 2 kartus, eilutėse: 23 35 
-dažniausiai: 2 kartus, eilutėse: 7 31 
-diasporos: 10 kartus, eilutėse: 3 9 25 27 29 31 
-druskininkų: 2 kartus, eilutėse: 23 35 
-dėl: 2 kartus, eilutėse: 11 27 
-dėstyti: 2 kartus, eilutėse: 15 
-dėsčiau: 2 kartus, eilutėse: 13 
-emigrantai: 3 kartus, eilutėse: 29 31 
-esmės: 3 kartus, eilutėse: 5 7 29 
-esu: 6 kartus, eilutėse: 7 19 21 35 
-formavausi: 2 kartus, eilutėse: 23 35 
-fulbright: 2 kartus, eilutėse: 11 15 
-gal: 2 kartus, eilutėse: 25 35 
-gimė: 2 kartus, eilutėse: 27 29 
-grįžti: 2 kartus, eilutėse: 31 
-gyvenime: 2 kartus, eilutėse: 3 7 
-gyvenome: 2 kartus, eilutėse: 13 19 
-ir: 56 kartus, eilutėse: 1 3 5 7 9 11 13 15 19 21 23 25 27 29 31 35 
-istoriją: 2 kartus, eilutėse: 5 29 
-iš: 12 kartus, eilutėse: 5 7 9 13 21 29 31 
-išsilavinimą: 2 kartus, eilutėse: 29 
-išvertusi: 2 kartus, eilutėse: 19 21 
-jau: 3 kartus, eilutėse: 7 21 27 
-jauna: 2 kartus, eilutėse: 23 35 
-jav: 3 kartus, eilutėse: 1 5 29 
-jeigu: 2 kartus, eilutėse: 21 31 
-jie: 2 kartus, eilutėse: 27 29 
-jo: 3 kartus, eilutėse: 19 23 35 
-jos: 2 kartus, eilutėse: 3 7 
-jūsų: 3 kartus, eilutėse: 5 17 25 
-jų: 2 kartus, eilutėse: 27 29 
-kad: 10 kartus, eilutėse: 7 21 27 29 31 35 
-kai: 4 kartus, eilutėse: 21 23 31 35 
-kaip: 6 kartus, eilutėse: 5 11 23 35 
-kalba: 3 kartus, eilutėse: 15 19 21 
-kalbos: 2 kartus, eilutėse: 3 15 
-kalbą: 3 kartus, eilutėse: 19 21 31 
-kartos: 3 kartus, eilutėse: 23 35 
-kartą: 3 kartus, eilutėse: 7 9 15 
-kasmet: 2 kartus, eilutėse: 23 35 
-kelionės: 4 kartus, eilutėse: 9 11 35 
-kitais: 2 kartus, eilutėse: 23 35 
-kitas: 2 kartus, eilutėse: 15 35 
-kitus: 4 kartus, eilutėse: 23 27 31 35 
-kitų: 3 kartus, eilutėse: 3 21 31 
-knygą: 2 kartus, eilutėse: 17 21 
-kokia: 2 kartus, eilutėse: 7 
-kukučio: 2 kartus, eilutėse: 11 19 
-kultūros: 2 kartus, eilutėse: 21 35 
-kultūrą: 2 kartus, eilutėse: 7 29 
-kuria: 2 kartus, eilutėse: 19 29 
-kurie: 7 kartus, eilutėse: 21 27 29 31 
-kurią: 3 kartus, eilutėse: 9 19 29 
-ką: 2 kartus, eilutėse: 11 15 
-kūryboje: 2 kartus, eilutėse: 1 5 
-kūrybos: 2 kartus, eilutėse: 3 19 
-l: 3 kartus, eilutėse: 3 
-labai: 6 kartus, eilutėse: 7 9 11 21 23 35 
-laikais: 2 kartus, eilutėse: 21 35 
-lietuva: 5 kartus, eilutėse: 3 7 29 31 
-lietuvai: 2 kartus, eilutėse: 11 29 
-lietuviais: 4 kartus, eilutėse: 23 33 35 
-lietuvių: 12 kartus, eilutėse: 1 3 5 7 15 17 21 25 35 
-lietuvoje: 6 kartus, eilutėse: 3 5 7 21 25 29 
-lietuvos: 12 kartus, eilutėse: 1 5 7 9 11 19 21 35 
-lietuvą: 6 kartus, eilutėse: 9 11 13 15 
-literatūra: 2 kartus, eilutėse: 3 17 
-literatūros: 4 kartus, eilutėse: 11 13 15 29 
-literatūrą: 2 kartus, eilutėse: 13 15 
-m: 6 kartus, eilutėse: 15 19 23 35 
-man: 13 kartus, eilutėse: 7 9 19 21 23 27 35 
-mane: 2 kartus, eilutėse: 19 21 
-mano: 5 kartus, eilutėse: 9 15 19 21 35 
-martinaičio: 3 kartus, eilutėse: 11 19 
-martinaičiu: 2 kartus, eilutėse: 23 35 
-menas: 2 kartus, eilutėse: 19 35 
-mes: 7 kartus, eilutėse: 11 19 27 29 31 
-metais: 2 kartus, eilutėse: 11 15 
-metu: 5 kartus, eilutėse: 9 11 13 23 35 
-metus: 3 kartus, eilutėse: 3 13 15 
-metų: 3 kartus, eilutėse: 7 13 
-mūsų: 4 kartus, eilutėse: 11 27 29 31 
-namo: 2 kartus, eilutėse: 31 
-ne: 4 kartus, eilutėse: 3 27 35 
-negu: 2 kartus, eilutėse: 29 35 
-nepaisant: 2 kartus, eilutėse: 19 31 
-nepriklausomybę: 3 kartus, eilutėse: 3 11 31 
-nes: 5 kartus, eilutėse: 11 21 27 31 
-neskatina: 2 kartus, eilutėse: 21 
-net: 2 kartus, eilutėse: 19 31 
-netgi: 2 kartus, eilutėse: 7 9 
-nors: 3 kartus, eilutėse: 1 15 33 
-nuo: 2 kartus, eilutėse: 1 7 
-nuvažiuoti: 2 kartus, eilutėse: 23 35 
-o: 5 kartus, eilutėse: 7 15 21 25 35 
-padėjo: 2 kartus, eilutėse: 23 35 
-palikti: 2 kartus, eilutėse: 29 
-pasaulio: 2 kartus, eilutėse: 25 35 
-patirtis: 3 kartus, eilutėse: 5 27 29 
-per: 2 kartus, eilutėse: 7 27 
-pirmasis: 2 kartus, eilutėse: 5 25 
-pirmą: 2 kartus, eilutėse: 9 15 
-poetinį: 2 kartus, eilutėse: 23 35 
-požiūrį: 2 kartus, eilutėse: 3 29 
-programos: 2 kartus, eilutėse: 11 15 
-rašytoja: 4 kartus, eilutėse: 1 23 31 35 
-rašytojai: 3 kartus, eilutėse: 21 29 35 
-rašytojais: 9 kartus, eilutėse: 23 27 29 33 35 
-rašytojos: 2 kartus, eilutėse: 23 35 
-rašytojus: 3 kartus, eilutėse: 3 25 
-rašytojų: 5 kartus, eilutėse: 21 25 31 35 
-reikšminga: 3 kartus, eilutėse: 23 27 35 
-renginius: 2 kartus, eilutėse: 23 35 
-rudenį: 2 kartus, eilutėse: 23 35 
-santykis: 2 kartus, eilutėse: 5 17 
-savo: 12 kartus, eilutėse: 1 5 7 11 15 21 23 27 31 33 35 
-situaciją: 2 kartus, eilutėse: 11 
-sovietmečiu: 2 kartus, eilutėse: 9 21 
-stengiuosi: 2 kartus, eilutėse: 23 35 
-su: 21 kartus, eilutėse: 3 5 7 9 11 13 15 17 23 27 33 35 
-sugrįžti: 2 kartus, eilutėse: 9 11 
-suprasti: 3 kartus, eilutėse: 7 11 
-susipažinti: 3 kartus, eilutėse: 7 23 35 
-svarbu: 6 kartus, eilutėse: 7 23 25 27 31 35 
-svetur: 2 kartus, eilutėse: 27 29 
-sąjūdžio: 2 kartus, eilutėse: 3 11 
-tad: 2 kartus, eilutėse: 11 21 
-tada: 5 kartus, eilutėse: 7 9 13 21 29 
-tai: 7 kartus, eilutėse: 1 7 21 23 31 35 
-tapatybės: 2 kartus, eilutėse: 3 
-tapatybę: 2 kartus, eilutėse: 27 29 
-tautos: 2 kartus, eilutėse: 1 5 
-tačiau: 7 kartus, eilutėse: 5 7 11 21 31 35 
-temų: 2 kartus, eilutėse: 3 31 
-tiek: 2 kartus, eilutėse: 11 19 
-tiesiog: 2 kartus, eilutėse: 21 31 
-tik: 5 kartus, eilutėse: 11 15 21 29 
-to: 2 kartus, eilutėse: 27 31 
-toliau: 2 kartus, eilutėse: 29 31 
-tuo: 4 kartus, eilutėse: 11 13 23 35 
-tėvynės: 2 kartus, eilutėse: 29 
-tų: 2 kartus, eilutėse: 7 29 
-universitete: 2 kartus, eilutėse: 13 15 
-užsienyje: 2 kartus, eilutėse: 27 
-viena: 3 kartus, eilutėse: 7 15 19 
-vieni: 3 kartus, eilutėse: 27 31 
-vilniaus: 3 kartus, eilutėse: 13 15 
-vilniuje: 3 kartus, eilutėse: 13 15 25 
-vincė: 2 kartus, eilutėse: 1 3 
-vis: 2 kartus, eilutėse: 11 19 
-yra: 7 kartus, eilutėse: 3 7 15 19 29 33 35 
-į: 21 kartus, eilutėse: 3 5 7 9 11 13 15 19 21 23 29 31 35 
-žmonių: 2 kartus, eilutėse: 11 31 
+0415929768: 2 kartus, eilutėse: 805 844 
+0691049610: 2 kartus, eilutėse: 805 843 
+1: 22 kartus, eilutėse: 224 419 464 522 773 814 832 833 835 836 837 853 878 912 924 931 932 943 951 971 989 
+10: 14 kartus, eilutėse: 309 401 710 814 877 878 886 890 892 899 929 950 958 960 
+100: 5 kartus, eilutėse: 580 908 926 927 928 
+1000: 3 kartus, eilutėse: 451 675 702 
+10000: 2 kartus, eilutėse: 168 718 
+100000: 3 kartus, eilutėse: 218 445 447 
+1051: 2 kartus, eilutėse: 325 330 
+107: 2 kartus, eilutėse: 347 790 
+11: 12 kartus, eilutėse: 609 770 852 865 871 880 894 919 945 953 961 
+110: 2 kartus, eilutėse: 373 385 
+111: 3 kartus, eilutėse: 578 832 835 
+1144: 2 kartus, eilutėse: 513 516 
+119: 2 kartus, eilutėse: 393 395 
+12: 17 kartus, eilutėse: 447 730 755 770 802 832 864 865 866 904 905 922 924 939 945 952 955 
+120: 2 kartus, eilutėse: 331 506 
+122: 3 kartus, eilutėse: 374 386 866 
+1228�58�e: 2 kartus, eilutėse: 62 105 
+124: 2 kartus, eilutėse: 355 368 
+126: 2 kartus, eilutėse: 307 363 
+1285: 3 kartus, eilutėse: 117 141 293 
+129: 2 kartus, eilutėse: 315 412 
+12th: 2 kartus, eilutėse: 234 615 
+13: 18 kartus, eilutėse: 218 293 726 762 795 803 824 825 831 833 834 837 863 871 907 927 934 940 
+1300: 2 kartus, eilutėse: 242 460 
+1303: 2 kartus, eilutėse: 602 605 
+139: 3 kartus, eilutėse: 293 311 752 
+14: 12 kartus, eilutėse: 218 520 805 844 880 881 889 897 904 905 960 999 
+145000: 2 kartus, eilutėse: 218 447 
+14th: 3 kartus, eilutėse: 147 168 485 
+15: 6 kartus, eilutėse: 293 309 728 748 871 954 
+150: 2 kartus, eilutėse: 445 605 
+151: 2 kartus, eilutėse: 408 478 
+1527: 2 kartus, eilutėse: 266 485 
+158: 2 kartus, eilutėse: 333 357 
+16: 8 kartus, eilutėse: 728 824 852 871 884 889 907 912 
+169: 2 kartus, eilutėse: 341 409 
+16th: 4 kartus, eilutėse: 249 252 485 656 
+17: 22 kartus, eilutėse: 746 766 767 770 826 848 854 874 875 887 894 901 925 934 939 943 944 951 953 955 958 
+17th: 4 kartus, eilutėse: 268 624 656 917 
+18: 17 kartus, eilutėse: 299 313 377 451 763 767 776 786 837 856 882 883 885 900 901 902 911 
+180: 2 kartus, eilutėse: 349 636 
+1861: 2 kartus, eilutėse: 279 428 
+1870: 5 kartus, eilutėse: 145 274 279 449 
+1871: 3 kartus, eilutėse: 145 279 429 
+1881: 2 kartus, eilutėse: 430 449 
+18th: 4 kartus, eilutėse: 268 596 624 917 
+19: 8 kartus, eilutėse: 283 806 867 871 872 897 899 954 
+1900: 2 kartus, eilutėse: 451 694 
+1911: 3 kartus, eilutėse: 432 702 816 
+192: 4 kartus, eilutėse: 159 732 804 959 
+1925: 6 kartus, eilutėse: 806 808 809 813 815 965 
+1927: 2 kartus, eilutėse: 694 700 
+1929: 2 kartus, eilutėse: 502 
+1934: 2 kartus, eilutėse: 694 841 
+1943: 5 kartus, eilutėse: 282 283 
+1944: 3 kartus, eilutėse: 283 936 
+1950s: 4 kartus, eilutėse: 285 449 689 724 
+1955: 2 kartus, eilutėse: 724 877 
+1956: 2 kartus, eilutėse: 535 877 
+1960: 3 kartus, eilutėse: 147 658 698 
+1960s: 2 kartus, eilutėse: 285 449 
+1964: 16 kartus, eilutėse: 771 777 778 779 780 781 782 783 788 789 790 792 793 796 797 971 
+1971: 2 kartus, eilutėse: 438 915 
+1975: 2 kartus, eilutėse: 913 949 
+198: 2 kartus, eilutėse: 366 393 
+1980: 2 kartus, eilutėse: 139 726 
+1984: 2 kartus, eilutėse: 769 967 
+1990: 4 kartus, eilutėse: 694 698 832 835 
+1991: 4 kartus, eilutėse: 440 654 700 837 
+19912020: 2 kartus, eilutėse: 315 827 
+1992: 2 kartus, eilutėse: 605 870 
+1997: 2 kartus, eilutėse: 819 840 
+19th: 3 kartus, eilutėse: 299 596 642 
+1st: 5 kartus, eilutėse: 121 143 188 679 856 
+2: 16 kartus, eilutėse: 224 420 447 726 762 801 822 841 875 876 882 886 909 912 
+20: 11 kartus, eilutėse: 439 518 730 763 774 776 794 808 841 899 943 
+2000: 5 kartus, eilutėse: 700 805 843 907 948 
+2001: 8 kartus, eilutėse: 441 518 578 795 805 833 839 844 
+2002: 3 kartus, eilutėse: 451 794 972 
+2003: 2 kartus, eilutėse: 422 578 
+2004: 2 kartus, eilutėse: 531 654 
+2005: 8 kartus, eilutėse: 578 605 636 753 754 772 926 
+2006: 14 kartus, eilutėse: 417 845 849 852 902 907 934 935 937 946 947 956 966 969 
+2007: 20 kartus, eilutėse: 451 766 770 831 834 836 851 857 863 880 881 890 903 907 958 960 973 
+2008: 22 kartus, eilutėse: 578 761 770 807 820 884 890 893 895 902 911 916 918 925 928 934 953 958 960 
+2009: 35 kartus, eilutėse: 578 663 702 752 759 770 803 847 850 851 855 872 883 887 892 895 905 909 926 928 933 943 944 951 952 955 958 963 
+201: 2 kartus, eilutėse: 385 914 
+2010: 43 kartus, eilutėse: 598 749 757 759 814 816 821 847 851 853 872 879 902 904 905 910 911 912 916 917 918 919 920 924 932 934 938 940 941 944 
+2011: 18 kartus, eilutėse: 442 458 700 761 854 888 892 896 904 906 952 954 968 970 
+2012: 14 kartus, eilutėse: 309 726 749 776 784 850 868 879 883 887 889 891 962 
+2013: 24 kartus, eilutėse: 518 605 802 822 871 874 875 886 889 891 906 927 930 931 960 
+2014: 20 kartus, eilutėse: 746 757 785 786 787 822 831 833 834 836 837 878 897 901 953 961 
+2015: 26 kartus, eilutėse: 522 728 730 746 757 763 803 818 831 834 848 852 858 859 860 861 867 876 921 957 
+2016: 15 kartus, eilutėse: 721 760 798 803 833 836 837 877 878 885 894 921 
+2017: 9 kartus, eilutėse: 749 751 816 848 900 939 989 
+2018: 10 kartus, eilutėse: 309 750 755 762 823 824 922 
+2019: 33 kartus, eilutėse: 147 763 776 785 786 807 823 849 850 851 853 855 863 867 894 899 900 909 914 927 928 929 959 962 
+2020: 16 kartus, eilutėse: 129 698 767 824 825 863 873 882 888 899 900 914 959 
+2021: 14 kartus, eilutėse: 443 773 774 776 791 841 888 942 945 950 
+2022: 13 kartus, eilutėse: 425 444 591 768 795 818 832 856 945 950 
+2023: 17 kartus, eilutėse: 464 748 826 827 828 829 865 866 898 908 923 950 
+2024: 14 kartus, eilutėse: 578 714 756 794 856 864 865 897 901 922 923 
+2025: 2 kartus, eilutėse: 901 999 
+21: 18 kartus, eilutėse: 109 118 174 307 506 718 768 773 795 809 855 874 885 915 928 
+210: 3 kartus, eilutėse: 224 343 353 
+22: 22 kartus, eilutėse: 520 730 776 807 813 823 849 850 851 855 863 905 909 914 927 928 929 950 953 959 962 
+23: 9 kartus, eilutėse: 757 763 815 883 891 892 920 952 959 
+24: 10 kartus, eilutėse: 293 376 732 759 761 768 802 836 850 904 
+25: 18 kartus, eilutėse: 231 283 440 746 818 851 888 891 893 896 898 908 919 920 932 934 942 
+26: 5 kartus, eilutėse: 823 824 847 887 890 
+27: 10 kartus, eilutėse: 200 750 794 822 836 879 908 922 923 
+2746984: 2 kartus, eilutėse: 122 141 
+28: 14 kartus, eilutėse: 143 285 442 466 756 757 823 856 873 908 914 930 945 
+285: 2 kartus, eilutėse: 204 445 
+286: 2 kartus, eilutėse: 206 208 
+29: 8 kartus, eilutėse: 774 785 803 841 888 910 926 
+295257: 2 kartus, eilutėse: 832 835 
+2nd: 3 kartus, eilutėse: 188 648 
+3: 25 kartus, eilutėse: 309 728 773 774 814 816 847 849 872 896 900 902 910 911 915 916 917 918 924 933 938 940 941 956 
+30: 16 kartus, eilutėse: 728 786 802 829 831 854 863 877 907 916 918 921 950 952 958 
+300: 3 kartus, eilutėse: 224 320 460 
+3000: 2 kartus, eilutėse: 283 687 
+30000: 2 kartus, eilutėse: 218 447 
+31: 8 kartus, eilutėse: 827 828 895 942 944 960 
+313: 3 kartus, eilutėse: 206 496 947 
+320: 2 kartus, eilutėse: 326 751 
+324: 2 kartus, eilutėse: 206 491 
+34: 3 kartus, eilutėse: 359 360 791 
+35: 2 kartus, eilutėse: 404 968 
+35000: 2 kartus, eilutėse: 224 445 
+36: 2 kartus, eilutėse: 447 801 
+381: 2 kartus, eilutėse: 360 361 
+39: 6 kartus, eilutėse: 403 453 622 716 726 732 
+397: 2 kartus, eilutėse: 323 382 
+4: 14 kartus, eilutėse: 214 283 592 714 749 767 785 805 820 834 853 930 931 
+40: 2 kartus, eilutėse: 687 1000 
+400: 4 kartus, eilutėse: 224 325 447 712 
+406: 2 kartus, eilutėse: 324 329 
+41: 2 kartus, eilutėse: 309 933 
+410: 3 kartus, eilutėse: 213 214 434 
+4153�36�n: 2 kartus, eilutėse: 62 105 
+42: 4 kartus, eilutėse: 451 453 592 
+4223885: 2 kartus, eilutėse: 124 141 
+426: 2 kartus, eilutėse: 362 398 
+43: 3 kartus, eilutėse: 293 381 451 
+44: 2 kartus, eilutėse: 190 578 
+450: 3 kartus, eilutėse: 210 224 804 
+450500000: 2 kartus, eilutėse: 214 224 
+452: 2 kartus, eilutėse: 218 447 
+455: 3 kartus, eilutėse: 214 223 346 
+47: 2 kartus, eilutėse: 370 458 
+473: 3 kartus, eilutėse: 357 370 407 
+476: 2 kartus, eilutėse: 214 224 
+48: 2 kartus, eilutėse: 307 458 
+487: 2 kartus, eilutėse: 381 414 
+496: 2 kartus, eilutėse: 117 293 
+4th: 4 kartus, eilutėse: 139 153 186 195 
+5: 14 kartus, eilutėse: 309 447 773 807 818 868 869 879 906 917 921 923 953 
+50: 4 kartus, eilutėse: 309 443 605 909 
+500: 7 kartus, eilutėse: 218 224 247 445 447 726 
+5000: 2 kartus, eilutėse: 451 687 
+500000: 6 kartus, eilutėse: 218 224 447 
+509: 5 kartus, eilutėse: 184 416 445 832 835 
+51: 3 kartus, eilutėse: 418 912 
+52: 2 kartus, eilutėse: 383 414 
+537: 2 kartus, eilutėse: 216 218 
+539: 2 kartus, eilutėse: 832 835 
+543: 2 kartus, eilutėse: 356 369 
+547: 2 kartus, eilutėse: 307 364 
+550: 2 kartus, eilutėse: 224 445 
+554: 2 kartus, eilutėse: 333 401 
+56: 4 kartus, eilutėse: 378 418 687 824 
+58: 3 kartus, eilutėse: 405 418 
+59: 2 kartus, eilutėse: 309 361 
+6: 18 kartus, eilutėse: 710 714 749 821 834 858 859 860 861 868 881 903 938 957 962 968 
+600: 2 kartus, eilutėse: 401 445 
+604: 2 kartus, eilutėse: 334 358 
+61: 2 kartus, eilutėse: 418 845 
+624: 2 kartus, eilutėse: 342 410 
+65: 6 kartus, eilutėse: 375 418 578 805 810 843 
+654: 2 kartus, eilutėse: 402 451 
+69: 3 kartus, eilutėse: 118 374 795 
+698: 2 kartus, eilutėse: 344 354 
+7: 9 kartus, eilutėse: 760 785 786 791 864 865 899 939 957 
+700: 2 kartus, eilutėse: 445 447 
+73: 2 kartus, eilutėse: 418 771 
+740: 2 kartus, eilutėse: 401 402 
+75: 3 kartus, eilutėse: 311 345 418 
+753: 4 kartus, eilutėse: 109 143 174 506 
+77: 2 kartus, eilutėse: 311 777 
+772: 2 kartus, eilutėse: 352 402 
+8: 6 kartus, eilutėse: 283 309 761 816 895 921 
+800: 5 kartus, eilutėse: 213 228 231 451 460 
+800000: 3 kartus, eilutėse: 214 447 
+85: 3 kartus, eilutėse: 356 369 406 
+86: 2 kartus, eilutėse: 147 362 
+8th: 3 kartus, eilutėse: 120 145 998 
+9: 11 kartus, eilutėse: 307 728 746 769 820 877 878 884 888 941 961 
+90000: 2 kartus, eilutėse: 218 447 
+91: 3 kartus, eilutėse: 138 379 782 
+93: 3 kartus, eilutėse: 380 413 783 
+97: 2 kartus, eilutėse: 788 846 
+a: 238 kartus, eilutėse: 141 143 145 147 163 168 173 174 182 184 188 190 195 197 200 204 206 210 213 216 224 228 232 234 236 242 249 252 256 263 264 266 268 270 275 277 279 283 285 291 299 305 309 311 445 447 449 451 453 458 460 482 483 485 502 504 506 513 516 518 529 578 582 592 594 596 598 603 609 621 622 624 630 636 642 648 656 658 663 670 672 673 675 677 679 681 689 693 694 698 710 712 714 716 718 724 726 728 730 732 743 754 757 791 799 805 822 836 843 857 865 870 871 896 901 937 1000 
+ab: 2 kartus, eilutėse: 506 819 
+abbot: 2 kartus, eilutėse: 630 
+able: 4 kartus, eilutėse: 242 256 279 596 
+about: 15 kartus, eilutėse: 168 242 283 293 445 447 449 451 458 596 710 714 716 932 
+above: 8 kartus, eilutėse: 168 238 293 307 642 
+abroad: 2 kartus, eilutėse: 188 931 
+academic: 2 kartus, eilutėse: 926 928 
+academies: 3 kartus, eilutėse: 603 924 
+academy: 5 kartus, eilutėse: 147 576 594 609 
+according: 16 kartus, eilutėse: 151 168 174 182 447 458 496 504 506 578 592 603 622 642 663 900 
+acres: 2 kartus, eilutėse: 140 445 
+across: 3 kartus, eilutėse: 254 279 630 
+activities: 2 kartus, eilutėse: 168 580 
+actually: 3 kartus, eilutėse: 153 206 642 
+ad: 22 kartus, eilutėse: 204 218 224 249 447 496 516 622 636 642 807 824 845 857 
+addition: 2 kartus, eilutėse: 174 506 
+additional: 2 kartus, eilutėse: 236 1000 
+administration: 6 kartus, eilutėse: 208 214 234 516 827 
+administrative: 6 kartus, eilutėse: 141 451 453 511 518 
+adopted: 2 kartus, eilutėse: 156 483 
+advent: 3 kartus, eilutėse: 814 816 924 
+aerospace: 2 kartus, eilutėse: 580 582 
+aeterna: 4 kartus, eilutėse: 91 143 159 757 
+affairs: 6 kartus, eilutėse: 147 268 524 605 609 851 
+affected: 2 kartus, eilutėse: 242 596 
+africa: 6 kartus, eilutėse: 216 447 468 469 470 471 
+after: 40 kartus, eilutėse: 145 159 174 182 184 188 190 200 204 210 218 224 228 232 234 242 275 279 283 285 445 447 449 496 573 578 592 663 673 698 726 870 
+afterwards: 2 kartus, eilutėse: 242 447 
+again: 2 kartus, eilutėse: 242 520 
+against: 11 kartus, eilutėse: 184 186 188 190 232 234 242 
+age: 12 kartus, eilutėse: 168 200 266 270 451 624 642 673 679 755 
+agencies: 4 kartus, eilutėse: 147 529 576 582 
+ages: 10 kartus, eilutėse: 145 220 249 447 451 504 520 846 
+ages61: 2 kartus, eilutėse: 228 
+agglomerations: 2 kartus, eilutėse: 749 853 
+aggregation: 2 kartus, eilutėse: 168 
+agree: 2 kartus, eilutėse: 238 1000 
+agricultural: 4 kartus, eilutėse: 147 168 529 576 
+agriculture: 4 kartus, eilutėse: 147 528 529 576 
+airport: 13 kartus, eilutėse: 315 580 707 714 
+albornoz: 2 kartus, eilutėse: 242 
+all: 18 kartus, eilutėse: 104 145 174 181 252 279 465 483 502 504 520 576 578 596 609 622 712 
+alla: 7 kartus, eilutėse: 670 677 681 
+allied: 5 kartus, eilutėse: 184 234 282 283 
+allowed: 3 kartus, eilutėse: 168 204 206 
+almost: 2 kartus, eilutėse: 145 247 
+along: 6 kartus, eilutėse: 141 204 502 582 603 665 
+already: 2 kartus, eilutėse: 200 447 
+also: 67 kartus, eilutėse: 28 141 143 147 159 168 174 197 200 226 238 256 266 291 299 423 447 449 483 489 496 498 500 506 511 520 522 531 534 576 578 582 605 609 615 627 630 636 642 654 656 663 665 677 694 730 732 734 742 
+although: 7 kartus, eilutėse: 254 293 447 580 663 702 716 
+america: 6 kartus, eilutėse: 475 476 753 912 914 925 
+american: 12 kartus, eilutėse: 576 594 609 689 832 835 930 932 
+among: 9 kartus, eilutėse: 190 224 299 516 529 592 605 609 
+amount: 2 kartus, eilutėse: 218 648 
+an: 44 kartus, eilutėse: 141 147 168 174 184 200 206 208 218 231 242 266 293 445 449 485 496 500 504 529 592 598 614 630 636 648 654 675 702 726 728 751 798 803 804 845 966 
+ancient: 48 kartus, eilutėse: 151 159 174 177 181 238 242 266 279 422 496 498 582 594 596 603 615 621 630 636 642 648 673 677 684 698 710 743 755 787 805 831 840 842 940 
+and: 572 kartus, eilutėse: 12 68 77 83 137 141 143 145 147 149 151 155 156 158 159 167 168 171 173 174 176 177 179 181 182 184 186 188 190 195 200 204 206 208 210 214 216 218 224 226 228 232 234 236 238 241 242 249 252 254 256 258 264 266 268 270 272 275 277 279 283 285 291 295 296 299 305 307 309 445 447 449 451 453 458 471 474 476 480 483 485 489 491 496 498 500 502 504 506 511 516 518 520 522 524 528 529 531 533 534 535 571 576 578 580 582 585 587 592 594 596 598 602 603 605 609 615 618 619 621 622 624 630 632 636 642 648 650 651 654 656 658 663 665 673 675 677 681 684 687 689 693 694 698 700 702 710 712 714 716 718 721 724 726 728 730 732 743 746 751 754 756 761 765 787 791 795 798 803 805 812 827 832 833 834 835 836 837 838 842 851 853 897 898 908 910 913 934 936 959 968 1000 
+aniene: 2 kartus, eilutėse: 291 642 
+annexed: 2 kartus, eilutėse: 275 449 
+another: 5 kartus, eilutėse: 270 283 291 299 718 
+antiquity: 6 kartus, eilutėse: 254 496 798 805 840 844 
+antonine: 4 kartus, eilutėse: 200 206 636 
+antony: 2 kartus, eilutėse: 190 784 
+any: 2 kartus, eilutėse: 578 
+apostles: 2 kartus, eilutėse: 200 226 
+appearance: 2 kartus, eilutėse: 42 218 
+apply: 2 kartus, eilutėse: 718 1000 
+appointed: 2 kartus, eilutėse: 206 238 
+approximately: 5 kartus, eilutėse: 168 309 451 458 675 
+april: 24 kartus, eilutėse: 109 174 506 535 749 763 770 776 785 786 847 851 863 876 901 902 911 922 945 952 958 
+aqueducts: 6 kartus, eilutėse: 592 618 619 622 624 
+arbitrators: 2 kartus, eilutėse: 206 236 
+arch: 2 kartus, eilutėse: 615 642 
+archaeological: 10 kartus, eilutėse: 168 270 576 592 594 728 912 
+archaeology: 6 kartus, eilutėse: 791 805 845 910 912 959 
+archaic: 2 kartus, eilutėse: 155 167 
+archbasilica: 2 kartus, eilutėse: 491 498 
+architects: 2 kartus, eilutėse: 145 596 
+architecture: 14 kartus, eilutėse: 256 596 598 613 614 615 
+archived: 139 kartus, eilutėse: 746 748 749 750 755 757 759 760 761 762 763 768 770 773 774 776 785 786 794 795 802 803 807 814 816 820 821 822 823 824 825 827 828 831 833 834 836 837 841 847 848 849 850 851 852 853 854 855 856 858 859 863 864 865 866 868 871 872 873 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 914 916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 950 951 952 953 954 955 956 957 958 959 960 961 962 989 
+are: 54 kartus, eilutėse: 147 226 299 309 458 460 485 498 504 518 520 522 524 531 576 580 582 591 592 594 596 609 630 642 647 648 656 665 679 687 694 718 732 945 
+area: 27 kartus, eilutėse: 115 134 140 141 168 184 279 291 293 299 445 451 453 502 516 522 578 598 677 724 856 
+areas: 11 kartus, eilutėse: 218 224 293 299 483 518 605 718 820 848 
+aristocracy: 2 kartus, eilutėse: 234 299 
+aristocratic: 2 kartus, eilutėse: 238 270 
+aristocrats: 3 kartus, eilutėse: 184 188 596 
+army: 6 kartus, eilutėse: 188 208 832 835 836 
+arnaldo: 2 kartus, eilutėse: 234 
+around: 12 kartus, eilutėse: 143 168 204 447 453 460 498 524 578 636 712 
+art: 23 kartus, eilutėse: 256 264 283 299 591 592 596 598 609 624 807 908 915 916 918 966 
+artichokes: 3 kartus, eilutėse: 679 681 
+article: 15 kartus, eilutėse: 35 162 165 193 245 296 302 488 569 612 633 639 645 668 705 
+articles: 7 kartus, eilutėse: 171 177 480 585 619 651 684 
+artistic: 4 kartus, eilutėse: 145 592 596 
+artists: 5 kartus, eilutėse: 145 254 264 596 
+arts: 6 kartus, eilutėse: 256 266 598 609 650 
+artwork: 2 kartus, eilutėse: 214 596 
+as: 118 kartus, eilutėse: 141 143 147 153 168 190 200 204 206 208 214 226 228 236 242 254 275 279 285 447 451 460 496 498 504 506 516 529 531 576 578 580 582 591 592 594 596 598 602 605 609 615 630 636 654 658 663 665 675 677 679 693 694 698 700 712 714 718 724 762 812 826 
+asia: 3 kartus, eilutėse: 472 473 474 
+assassination: 2 kartus, eilutėse: 159 190 
+assembly: 3 kartus, eilutėse: 114 147 762 
+associated: 3 kartus, eilutėse: 656 689 945 
+at: 55 kartus, eilutėse: 143 145 159 168 186 199 203 218 242 274 293 299 307 309 447 482 495 522 578 594 609 636 641 642 648 653 656 700 710 726 748 795 825 866 873 901 977 989 991 997 999 
+attempt: 3 kartus, eilutėse: 188 204 208 
+attempts: 2 kartus, eilutėse: 204 270 
+auditorium: 3 kartus, eilutėse: 598 920 
+august: 41 kartus, eilutėse: 307 770 776 794 795 807 823 827 828 829 849 850 851 855 863 865 867 873 881 883 886 889 891 897 903 905 909 914 922 923 927 928 929 932 959 960 962 
+augustus: 6 kartus, eilutėse: 195 200 206 214 218 447 
+aurelian: 3 kartus, eilutėse: 274 520 995 
+aurelius: 2 kartus, eilutėse: 636 
+authority: 3 kartus, eilutėse: 204 268 997 
+available: 2 kartus, eilutėse: 216 1000 
+aventine: 2 kartus, eilutėse: 156 291 
+average: 15 kartus, eilutėse: 307 311 387 401 402 403 451 578 592 
+avignon: 4 kartus, eilutėse: 241 242 496 504 
+away: 2 kartus, eilutėse: 268 283 
+b: 6 kartus, eilutėse: 724 726 752 
+b1: 2 kartus, eilutėse: 726 
+babuino: 2 kartus, eilutėse: 630 
+balkans: 2 kartus, eilutėse: 186 204 
+bank: 3 kartus, eilutėse: 147 502 642 
+banking: 2 kartus, eilutėse: 580 582 
+barcaccia: 3 kartus, eilutėse: 77 251 587 
+baroque: 11 kartus, eilutėse: 145 268 270 596 615 622 624 642 656 916 
+base: 3 kartus, eilutėse: 293 496 
+based: 8 kartus, eilutėse: 147 218 447 500 609 679 
+basilica: 12 kartus, eilutėse: 79 231 232 254 264 496 498 502 814 
+basilicas: 2 kartus, eilutėse: 214 596 
+baths: 5 kartus, eilutėse: 216 299 622 636 
+bc: 24 kartus, eilutėse: 109 143 167 168 174 179 184 186 188 190 200 445 506 679 832 835 998 
+bc400: 2 kartus, eilutėse: 832 835 
+be: 19 kartus, eilutėse: 141 168 174 188 200 208 214 218 228 254 447 451 578 596 630 658 724 743 
+beauty: 2 kartus, eilutėse: 252 592 
+became: 30 kartus, eilutėse: 143 145 206 210 224 226 232 242 256 264 268 279 285 496 504 596 615 624 673 675 689 870 
+because: 8 kartus, eilutėse: 188 218 226 483 648 658 700 724 
+become: 3 kartus, eilutėse: 630 694 
+been: 29 kartus, eilutėse: 143 147 153 159 168 200 224 447 496 504 513 516 518 529 531 603 605 654 656 687 694 700 712 724 730 
+before: 4 kartus, eilutėse: 224 266 496 730 
+began: 6 kartus, eilutėse: 184 268 285 496 621 710 
+beginning: 8 kartus, eilutėse: 145 168 188 214 228 252 268 
+behind: 2 kartus, eilutėse: 210 232 
+beijing: 2 kartus, eilutėse: 545 883 
+being: 5 kartus, eilutėse: 270 502 718 
+benito: 2 kartus, eilutėse: 283 689 
+bernard: 2 kartus, eilutėse: 805 844 
+bernini: 4 kartus, eilutėse: 251 596 629 642 
+bertarelli: 6 kartus, eilutėse: 806 808 809 813 815 965 
+beside: 2 kartus, eilutėse: 291 714 
+best: 5 kartus, eilutėse: 254 299 605 675 
+beta: 2 kartus, eilutėse: 55 578 
+between: 17 kartus, eilutėse: 168 184 188 190 200 206 228 236 238 309 451 453 491 578 658 
+bibliography: 2 kartus, eilutėse: 31 964 
+biblioteca: 10 kartus, eilutėse: 608 609 933 
+biggest: 2 kartus, eilutėse: 687 
+bilaterali: 2 kartus, eilutėse: 877 878 
+billion: 4 kartus, eilutėse: 129 578 728 
+birth: 3 kartus, eilutėse: 168 238 451 
+bishop: 3 kartus, eilutėse: 226 496 
+bnl: 2 kartus, eilutėse: 147 575 
+bombing: 2 kartus, eilutėse: 283 
+book: 4 kartus, eilutėse: 596 675 773 774 
+books: 2 kartus, eilutėse: 609 772 
+boom: 3 kartus, eilutėse: 299 449 
+borghese: 5 kartus, eilutėse: 298 299 592 698 
+borgo: 3 kartus, eilutėse: 502 520 642 
+born: 2 kartus, eilutėse: 242 694 
+bosco: 2 kartus, eilutėse: 609 648 
+both: 11 kartus, eilutėse: 145 188 206 226 232 258 504 516 524 694 700 
+botticelli: 2 kartus, eilutėse: 254 264 
+boundaries: 5 kartus, eilutėse: 141 502 518 520 648 
+braised: 2 kartus, eilutėse: 681 
+branch: 4 kartus, eilutėse: 609 700 724 726 
+brands: 3 kartus, eilutėse: 147 603 925 
+breadcrumbs: 2 kartus, eilutėse: 681 
+bridge: 6 kartus, eilutėse: 254 642 941 
+bridges: 8 kartus, eilutėse: 638 639 642 940 
+brief: 2 kartus, eilutėse: 504 952 
+briefly: 2 kartus, eilutėse: 242 504 
+britannica: 3 kartus, eilutėse: 642 746 941 
+british: 3 kartus, eilutėse: 576 609 795 
+brought: 2 kartus, eilutėse: 242 252 
+build: 2 kartus, eilutėse: 174 283 
+building: 6 kartus, eilutėse: 206 238 256 268 299 726 
+buildings: 6 kartus, eilutėse: 181 224 270 502 592 596 
+built: 20 kartus, eilutėse: 168 179 200 238 249 254 264 270 291 449 491 502 624 636 642 654 698 
+burial: 2 kartus, eilutėse: 648 
+burials: 3 kartus, eilutėse: 647 648 
+bus: 4 kartus, eilutėse: 732 
+business: 6 kartus, eilutėse: 147 571 582 605 724 
+but: 24 kartus, eilutėse: 174 204 206 210 214 218 228 232 242 270 275 299 309 449 502 594 630 642 698 724 728 730 
+by: 136 kartus, eilutėse: 110 141 143 147 168 174 182 184 197 200 206 208 213 214 216 218 223 226 228 231 232 234 238 242 247 251 258 261 263 264 268 270 274 275 279 282 283 291 299 445 447 449 451 458 460 483 485 496 502 506 516 518 522 529 573 578 580 596 598 605 621 629 636 642 656 673 677 689 710 712 714 718 748 936 958 992 994 1000 1003 
+c: 23 kartus, eilutėse: 204 213 307 309 311 313 317 331 345 359 373 403 728 950 961 
+cacio: 2 kartus, eilutėse: 672 681 
+caesar: 4 kartus, eilutėse: 188 190 206 
+caesars: 2 kartus, eilutėse: 190 206 
+caetani: 2 kartus, eilutėse: 238 242 
+called: 8 kartus, eilutėse: 143 159 226 242 518 724 
+cambridge: 3 kartus, eilutėse: 838 840 959 
+came: 3 kartus, eilutėse: 151 200 242 
+campus: 6 kartus, eilutėse: 598 609 
+can: 4 kartus, eilutėse: 168 218 451 504 
+capacity: 3 kartus, eilutėse: 447 693 700 
+capital: 23 kartus, eilutėse: 68 94 108 141 143 145 159 200 206 279 504 522 524 529 576 578 663 
+capitale: 7 kartus, eilutėse: 69 96 97 141 159 694 868 
+capitoline: 10 kartus, eilutėse: 114 167 168 173 291 516 592 710 990 
+captulo: 2 kartus, eilutėse: 810 
+capture: 2 kartus, eilutėse: 274 279 
+caput: 4 kartus, eilutėse: 93 143 159 200 
+caracalla: 2 kartus, eilutėse: 299 698 
+carbonara: 2 kartus, eilutėse: 670 681 
+carciofi: 2 kartus, eilutėse: 681 
+cardinals: 3 kartus, eilutėse: 232 238 268 
+carlo: 3 kartus, eilutėse: 274 498 605 
+carolingian: 2 kartus, eilutėse: 228 232 
+casanatense: 2 kartus, eilutėse: 608 609 
+case: 2 kartus, eilutėse: 622 694 
+castel: 4 kartus, eilutėse: 71 81 232 249 
+catacombs: 9 kartus, eilutėse: 498 592 644 645 648 
+cathedral: 3 kartus, eilutėse: 491 498 
+catholic: 11 kartus, eilutėse: 141 226 493 496 529 753 811 814 816 924 
+catholics: 2 kartus, eilutėse: 226 504 
+caused: 6 kartus, eilutėse: 188 204 216 266 447 718 
+celebrated: 2 kartus, eilutėse: 268 506 
+celimontana: 3 kartus, eilutėse: 299 609 636 
+census: 2 kartus, eilutėse: 445 447 
+center: 3 kartus, eilutėse: 598 609 927 
+central: 14 kartus, eilutėse: 159 184 204 214 291 293 471 474 476 485 609 712 958 
+centre: 47 kartus, eilutėse: 96 97 137 141 145 147 181 216 226 254 256 268 283 291 293 496 498 500 520 524 531 576 582 596 598 603 636 654 663 673 675 687 710 712 714 718 761 767 
+centres: 8 kartus, eilutėse: 145 264 582 594 596 615 
+centuries: 11 kartus, eilutėse: 143 200 218 268 496 504 615 656 673 
+century: 36 kartus, eilutėse: 143 145 153 167 168 174 186 188 195 200 204 214 218 234 252 299 447 485 596 598 624 642 648 679 917 998 
+changed: 2 kartus, eilutėse: 208 258 
+chapel: 4 kartus, eilutėse: 254 264 502 656 
+chapter: 3 kartus, eilutėse: 773 774 836 
+characterised: 3 kartus, eilutėse: 184 200 580 
+charlemagne: 3 kartus, eilutėse: 228 231 845 
+charles: 5 kartus, eilutėse: 238 266 787 811 
+chicago: 3 kartus, eilutėse: 609 837 841 
+chiefly: 2 kartus, eilutėse: 458 
+chigi: 2 kartus, eilutėse: 266 270 
+children: 5 kartus, eilutėse: 210 256 299 447 451 
+christ: 2 kartus, eilutėse: 200 504 
+christian: 9 kartus, eilutėse: 141 200 236 496 504 648 
+christianity: 4 kartus, eilutėse: 210 226 242 752 
+christians: 4 kartus, eilutėse: 200 206 496 
+christie: 2 kartus, eilutėse: 447 845 
+church: 11 kartus, eilutėse: 141 206 226 228 268 270 493 496 498 529 656 
+church68: 2 kartus, eilutėse: 242 268 
+churches: 5 kartus, eilutėse: 206 493 498 592 656 
+churchs: 4 kartus, eilutėse: 242 268 270 
+ciampino: 5 kartus, eilutėse: 315 714 828 
+cinecitt�: 10 kartus, eilutėse: 147 285 582 686 687 689 763 950 951 
+cinema: 2 kartus, eilutėse: 683 687 
+circus: 2 kartus, eilutėse: 299 495 
+cities: 31 kartus, eilutėse: 143 234 256 283 529 533 534 541 578 596 712 718 737 760 802 837 850 852 883 886 888 889 890 891 892 893 901 905 955 
+citizenship: 3 kartus, eilutėse: 464 856 
+citt�: 4 kartus, eilutėse: 96 97 143 824 
+city: 189 kartus, eilutėse: 68 79 92 96 97 108 124 125 137 141 143 145 147 159 167 168 174 184 188 200 204 206 214 218 224 226 228 232 234 238 242 252 264 266 270 279 283 285 293 299 445 447 449 451 453 489 496 498 502 504 506 509 511 516 518 522 524 529 531 557 576 578 580 582 592 594 596 603 615 619 622 630 636 642 648 654 656 665 679 694 712 714 716 718 728 742 754 756 759 761 799 805 829 832 835 843 885 889 895 905 906 988 998 
+citys: 15 kartus, eilutėse: 143 151 216 232 247 268 283 285 447 493 522 642 677 730 
+civil: 6 kartus, eilutėse: 188 190 204 206 
+civilian: 2 kartus, eilutėse: 208 714 
+civilization: 2 kartus, eilutėse: 141 199 
+civilizations: 2 kartus, eilutėse: 787 802 
+civilt�: 2 kartus, eilutėse: 147 617 
+civitavecchia: 3 kartus, eilutėse: 522 709 716 
+class: 2 kartus, eilutėse: 188 216 
+classical: 10 kartus, eilutėse: 283 496 615 622 630 642 784 841 915 
+classification: 2 kartus, eilutėse: 305 821 
+clement: 3 kartus, eilutėse: 258 270 485 
+clergy: 2 kartus, eilutėse: 206 232 
+climate: 7 kartus, eilutėse: 301 302 305 315 821 827 
+close: 2 kartus, eilutėse: 299 447 
+cnn: 2 kartus, eilutėse: 760 953 
+coarelli: 3 kartus, eilutėse: 769 862 967 
+coemperor: 2 kartus, eilutėse: 206 
+cola: 6 kartus, eilutėse: 242 485 
+coldest: 3 kartus, eilutėse: 307 309 823 
+college: 8 kartus, eilutėse: 531 576 609 918 932 
+colleges: 4 kartus, eilutėse: 603 605 609 
+colonna: 3 kartus, eilutėse: 238 242 636 
+colony: 2 kartus, eilutėse: 174 184 
+colosseum: 6 kartus, eilutėse: 75 199 203 592 594 
+column: 4 kartus, eilutėse: 636 
+columns: 2 kartus, eilutėse: 632 636 
+command: 2 kartus, eilutėse: 208 
+commercial: 3 kartus, eilutėse: 460 580 
+commodus: 3 kartus, eilutėse: 159 636 768 
+commonly: 2 kartus, eilutėse: 516 714 
+commons: 2 kartus, eilutėse: 979 1000 
+commune: 7 kartus, eilutėse: 234 877 878 882 
+companies: 8 kartus, eilutėse: 147 580 582 899 907 
+company: 2 kartus, eilutėse: 573 811 
+compare: 2 kartus, eilutėse: 596 743 
+compared: 4 kartus, eilutėse: 451 718 
+completed: 3 kartus, eilutėse: 621 642 689 
+composers: 4 kartus, eilutėse: 656 
+compton: 5 kartus, eilutėse: 766 867 972 973 974 
+comune: 14 kartus, eilutėse: 68 96 97 141 285 293 425 516 869 870 882 987 
+comuni: 2 kartus, eilutėse: 516 904 
+condita: 2 kartus, eilutėse: 506 819 
+condotti: 2 kartus, eilutėse: 662 665 
+confidence: 2 kartus, eilutėse: 268 624 
+connected: 2 kartus, eilutėse: 622 710 
+connecting: 2 kartus, eilutėse: 642 728 
+connects: 2 kartus, eilutėse: 642 726 
+conquest: 3 kartus, eilutėse: 184 190 483 
+considered: 8 kartus, eilutėse: 141 168 200 226 571 596 603 658 
+consists: 2 kartus, eilutėse: 458 
+constant: 2 kartus, eilutėse: 184 228 
+constantine: 6 kartus, eilutėse: 206 208 216 264 845 
+constructed: 2 kartus, eilutėse: 197 496 
+construction: 6 kartus, eilutėse: 449 580 621 724 728 
+contains: 9 kartus, eilutėse: 181 460 594 596 598 609 636 642 
+contemporary: 5 kartus, eilutėse: 272 592 598 615 
+continued: 10 kartus, eilutėse: 216 218 234 268 283 285 447 449 
+continuous: 2 kartus, eilutėse: 188 238 
+control: 11 kartus, eilutėse: 145 204 208 224 228 238 279 997 
+convention: 3 kartus, eilutėse: 531 598 
+cooking: 3 kartus, eilutėse: 673 675 681 
+cooperation: 4 kartus, eilutėse: 147 890 895 897 
+coordinates: 2 kartus, eilutėse: 62 105 
+corriere: 2 kartus, eilutėse: 824 921 
+corruption: 3 kartus, eilutėse: 256 898 
+cost: 2 kartus, eilutėse: 726 728 
+could: 4 kartus, eilutėse: 214 238 658 
+council: 5 kartus, eilutėse: 252 268 511 516 518 
+counterreformation: 3 kartus, eilutėse: 256 268 270 
+countries: 7 kartus, eilutėse: 460 465 466 467 576 609 
+country: 9 kartus, eilutėse: 106 141 464 578 694 750 
+court: 2 kartus, eilutėse: 524 531 
+courts: 2 kartus, eilutėse: 576 702 
+created: 10 kartus, eilutėse: 206 251 254 264 299 449 502 518 630 698 
+creating: 3 kartus, eilutėse: 145 208 228 
+crisis: 2 kartus, eilutėse: 204 730 
+cross: 2 kartus, eilutėse: 518 642 
+crowned: 2 kartus, eilutėse: 228 249 
+cucina: 2 kartus, eilutėse: 679 949 
+cuisine: 12 kartus, eilutėse: 460 667 668 673 675 677 679 
+culinaria: 2 kartus, eilutėse: 948 
+cultural: 12 kartus, eilutėse: 145 483 531 576 594 596 609 673 818 937 
+culture: 9 kartus, eilutėse: 25 141 256 596 598 611 612 673 910 
+cup: 2 kartus, eilutėse: 694 698 
+current: 5 kartus, eilutėse: 485 502 515 743 748 
+currently: 2 kartus, eilutėse: 642 648 
+cyprian: 2 kartus, eilutėse: 204 791 
+d: 2 kartus, eilutėse: 730 754 
+da: 9 kartus, eilutėse: 232 234 656 707 714 810 871 908 952 
+daily: 4 kartus, eilutėse: 309 331 345 359 
+damage: 3 kartus, eilutėse: 214 216 447 
+dark: 2 kartus, eilutėse: 61 846 
+data: 4 kartus, eilutėse: 315 851 986 991 
+date: 3 kartus, eilutėse: 283 506 794 
+day: 8 kartus, eilutėse: 307 309 712 823 888 
+days: 3 kartus, eilutėse: 226 242 401 
+de: 24 kartus, eilutėse: 539 582 598 609 694 754 757 794 810 880 881 884 887 936 968 
+dead: 2 kartus, eilutėse: 785 
+death: 3 kartus, eilutėse: 210 234 266 
+decades: 2 kartus, eilutėse: 605 648 
+decay: 3 kartus, eilutėse: 214 218 232 
+december: 21 kartus, eilutėse: 231 309 762 807 882 884 885 889 890 915 917 921 925 927 950 956 
+declared: 2 kartus, eilutėse: 279 
+decline: 6 kartus, eilutėse: 216 218 447 833 842 
+declined: 5 kartus, eilutėse: 218 224 285 447 
+decorated: 2 kartus, eilutėse: 622 642 
+dedicated: 2 kartus, eilutėse: 592 598 
+defence: 2 kartus, eilutėse: 576 580 
+degli: 2 kartus, eilutėse: 609 942 
+degna: 2 kartus, eilutėse: 538 
+dei: 8 kartus, eilutėse: 77 587 629 642 665 697 871 904 
+del: 12 kartus, eilutėse: 299 515 609 635 636 675 757 767 874 896 919 
+della: 18 kartus, eilutėse: 83 147 251 524 531 587 598 609 617 654 694 822 824 865 874 920 921 933 
+dellopera: 2 kartus, eilutėse: 653 654 
+demografiche: 2 kartus, eilutėse: 847 854 
+demographic: 2 kartus, eilutėse: 449 747 
+demographics: 3 kartus, eilutėse: 18 421 423 
+demoistatit: 2 kartus, eilutėse: 847 854 
+demolished: 3 kartus, eilutėse: 264 283 642 
+density: 4 kartus, eilutėse: 123 125 447 451 
+department: 2 kartus, eilutėse: 147 851 
+derived: 3 kartus, eilutėse: 153 204 506 
+design: 4 kartus, eilutėse: 147 605 609 621 
+designed: 2 kartus, eilutėse: 598 642 
+despite: 3 kartus, eilutėse: 168 496 498 
+developed: 7 kartus, eilutėse: 168 285 291 483 615 679 
+development: 8 kartus, eilutėse: 147 168 531 576 580 837 
+di: 36 kartus, eilutėse: 96 97 242 299 485 495 498 506 522 538 587 609 653 654 681 716 758 858 860 865 869 882 904 921 942 957 961 966 967 972 
+dialect: 5 kartus, eilutėse: 480 482 485 
+dialects: 2 kartus, eilutėse: 485 
+dictionary: 2 kartus, eilutėse: 784 913 
+did: 4 kartus, eilutėse: 204 206 283 
+die: 2 kartus, eilutėse: 596 953 
+died: 2 kartus, eilutėse: 238 242 
+different: 5 kartus, eilutėse: 460 485 596 622 
+digne: 2 kartus, eilutėse: 539 
+dilapidated: 2 kartus, eilutėse: 264 598 
+dioceses: 2 kartus, eilutėse: 206 208 
+diocletian: 5 kartus, eilutėse: 204 206 636 
+directors: 2 kartus, eilutėse: 658 689 
+dish: 3 kartus, eilutėse: 670 672 679 
+dishes: 2 kartus, eilutėse: 679 681 
+distance: 4 kartus, eilutėse: 710 726 728 730 
+distributed: 2 kartus, eilutėse: 218 447 
+distribution: 2 kartus, eilutėse: 218 447 
+district: 10 kartus, eilutėse: 147 283 293 460 571 598 617 698 724 
+districts: 2 kartus, eilutėse: 582 718 
+ditalia: 2 kartus, eilutėse: 702 965 
+divided: 5 kartus, eilutėse: 206 518 520 
+division: 2 kartus, eilutėse: 206 794 
+divisions: 2 kartus, eilutėse: 242 518 
+do: 4 kartus, eilutėse: 810 939 953 
+doi102307295257: 2 kartus, eilutėse: 832 835 
+dolce: 3 kartus, eilutėse: 285 665 
+domani: 2 kartus, eilutėse: 766 973 
+domestic: 2 kartus, eilutėse: 214 748 
+don: 2 kartus, eilutėse: 609 648 
+doria: 3 kartus, eilutėse: 299 304 
+dos: 4 kartus, eilutėse: 810 
+down: 6 kartus, eilutėse: 174 182 204 224 622 
+dpartement: 3 kartus, eilutėse: 275 
+dramatically: 2 kartus, eilutėse: 204 258 
+driving: 2 kartus, eilutėse: 210 232 
+due: 10 kartus, eilutėse: 141 218 279 283 592 598 630 712 718 730 
+during: 44 kartus, eilutėse: 168 200 204 218 228 234 242 254 270 274 275 277 279 283 285 299 307 309 447 449 485 504 596 603 605 621 622 624 642 656 673 675 689 718 
+dwindled: 2 kartus, eilutėse: 447 
+dynasty: 2 kartus, eilutėse: 204 206 
+e: 8 kartus, eilutėse: 609 672 681 758 810 865 867 912 
+each: 6 kartus, eilutėse: 168 206 232 238 518 622 
+earlier: 2 kartus, eilutėse: 174 447 
+earliest: 2 kartus, eilutėse: 164 174 
+early: 14 kartus, eilutėse: 143 153 188 226 244 266 268 285 447 449 596 656 772 836 
+easily: 2 kartus, eilutėse: 214 718 
+east: 2 kartus, eilutėse: 204 224 
+eastern: 6 kartus, eilutėse: 206 210 470 473 728 
+economic: 9 kartus, eilutėse: 147 181 204 285 449 531 803 837 851 
+economy: 10 kartus, eilutėse: 22 266 568 569 578 580 582 852 968 
+ed: 5 kartus, eilutėse: 759 787 811 836 839 
+edict: 2 kartus, eilutėse: 206 210 
+editore: 2 kartus, eilutėse: 966 967 
+editori: 4 kartus, eilutėse: 867 972 973 974 
+education: 4 kartus, eilutėse: 24 256 600 603 
+educational: 2 kartus, eilutėse: 498 603 
+egypt: 2 kartus, eilutėse: 578 787 
+eight: 2 kartus, eilutėse: 636 732 
+either: 3 kartus, eilutėse: 156 598 648 
+elected: 3 kartus, eilutėse: 232 242 518 
+elevation: 2 kartus, eilutėse: 118 315 
+emanuele: 3 kartus, eilutėse: 641 642 
+emperor: 14 kartus, eilutėse: 159 200 206 208 210 228 232 264 266 447 801 
+emperors: 10 kartus, eilutėse: 195 197 200 210 214 232 768 795 
+empire: 28 kartus, eilutėse: 143 145 192 193 200 204 206 210 214 221 224 228 242 275 283 447 622 710 
+empires: 2 kartus, eilutėse: 210 673 
+encyclopdia: 2 kartus, eilutėse: 642 941 
+encyclopedia: 9 kartus, eilutėse: 3 64 759 776 811 814 816 924 946 
+end: 12 kartus, eilutėse: 159 168 204 214 234 266 447 500 642 728 
+ended: 3 kartus, eilutėse: 204 241 
+enel: 2 kartus, eilutėse: 147 580 
+energy: 2 kartus, eilutėse: 252 582 
+english: 7 kartus, eilutėse: 127 483 596 609 988 989 990 
+eni: 5 kartus, eilutėse: 147 571 580 898 
+enjoying: 2 kartus, eilutėse: 137 761 
+entered: 2 kartus, eilutėse: 204 232 
+entities: 2 kartus, eilutėse: 529 531 
+especially: 3 kartus, eilutėse: 580 603 694 
+esposizione: 2 kartus, eilutėse: 582 724 
+esquilino: 3 kartus, eilutėse: 457 460 
+est: 2 kartus, eilutėse: 539 
+established: 8 kartus, eilutėse: 184 186 190 275 531 609 998 
+establishment: 5 kartus, eilutėse: 168 186 188 
+estimated: 5 kartus, eilutėse: 445 447 726 728 
+estimates: 6 kartus, eilutėse: 224 447 
+et: 4 kartus, eilutėse: 794 880 
+eternal: 9 kartus, eilutėse: 92 141 143 159 252 270 754 756 805 
+etruscan: 2 kartus, eilutėse: 156 182 
+etruscans: 2 kartus, eilutėse: 143 184 
+etymology: 3 kartus, eilutėse: 90 150 
+eu: 4 kartus, eilutėse: 147 531 578 592 
+eur: 8 kartus, eilutėse: 147 571 582 598 617 921 
+europa: 2 kartus, eilutėse: 575 810 
+europe: 10 kartus, eilutėse: 103 120 236 654 687 693 712 804 826 917 
+european: 25 kartus, eilutėse: 141 147 234 256 283 299 458 466 467 531 578 596 605 718 736 834 849 926 928 
+europes: 5 kartus, eilutėse: 596 605 609 823 
+even: 4 kartus, eilutėse: 216 279 504 
+event: 3 kartus, eilutėse: 228 274 724 
+events: 2 kartus, eilutėse: 485 651 
+eventually: 3 kartus, eilutėse: 143 204 283 
+every: 5 kartus, eilutėse: 506 518 702 712 718 
+evidence: 3 kartus, eilutėse: 168 
+evolved: 4 kartus, eilutėse: 234 460 520 673 
+example: 4 kartus, eilutėse: 141 270 485 675 
+examples: 2 kartus, eilutėse: 609 681 
+excavations: 2 kartus, eilutėse: 168 
+existing: 2 kartus, eilutėse: 141 728 
+expansion: 2 kartus, eilutėse: 200 673 
+expenses: 2 kartus, eilutėse: 204 256 
+express: 2 kartus, eilutėse: 195 888 
+expression: 2 kartus, eilutėse: 143 200 
+extended: 2 kartus, eilutėse: 283 726 
+extends: 3 kartus, eilutėse: 293 453 522 
+extensive: 2 kartus, eilutėse: 483 648 
+external: 2 kartus, eilutėse: 32 975 
+extraterritorial: 2 kartus, eilutėse: 137 761 
+eyewitness: 2 kartus, eilutėse: 947 969 
+f: 18 kartus, eilutėse: 307 309 311 313 317 331 345 359 373 403 
+facchino: 2 kartus, eilutėse: 630 
+facilities: 2 kartus, eilutėse: 689 698 
+fact: 4 kartus, eilutėse: 498 502 609 770 
+failed: 2 kartus, eilutėse: 188 449 
+fair: 2 kartus, eilutėse: 242 724 
+fall: 4 kartus, eilutėse: 145 221 224 275 
+fallen: 2 kartus, eilutėse: 213 214 
+families: 3 kartus, eilutėse: 232 238 270 
+family: 3 kartus, eilutėse: 242 258 485 
+famous: 10 kartus, eilutėse: 145 174 264 299 642 648 656 658 
+far: 2 kartus, eilutėse: 656 718 
+farmers: 2 kartus, eilutėse: 147 188 
+farnesina: 3 kartus, eilutėse: 264 524 531 
+fascism: 2 kartus, eilutėse: 283 753 
+fascist: 3 kartus, eilutėse: 283 449 615 
+fashion: 7 kartus, eilutėse: 147 660 663 665 943 
+faus: 2 kartus, eilutėse: 810 
+feature: 2 kartus, eilutėse: 204 728 
+features: 2 kartus, eilutėse: 598 
+february: 44 kartus, eilutėse: 309 311 748 761 773 774 814 816 820 823 824 832 841 847 858 859 860 861 868 872 888 899 902 910 911 912 916 917 918 919 924 930 931 938 939 940 941 958 
+fell: 3 kartus, eilutėse: 145 232 447 
+fendi: 2 kartus, eilutėse: 147 944 
+feudal: 2 kartus, eilutėse: 232 
+few: 3 kartus, eilutėse: 218 299 594 
+field: 2 kartus, eilutėse: 605 918 
+fifa: 2 kartus, eilutėse: 694 698 
+fifth: 4 kartus, eilutėse: 214 218 447 677 
+fight: 2 kartus, eilutėse: 238 242 
+figure: 2 kartus, eilutėse: 218 
+figures: 2 kartus, eilutėse: 277 630 
+film: 6 kartus, eilutėse: 422 582 686 687 689 
+filmed: 2 kartus, eilutėse: 285 687 
+films: 3 kartus, eilutėse: 285 684 
+final: 7 kartus, eilutėse: 190 204 274 694 698 702 730 
+finally: 2 kartus, eilutėse: 520 724 
+fire: 3 kartus, eilutėse: 200 785 786 
+first: 32 kartus, eilutėse: 143 145 151 174 186 188 200 213 224 226 228 242 252 254 266 275 496 596 605 609 642 648 675 724 728 730 953 
+fiscal: 2 kartus, eilutėse: 208 
+fiumicino: 4 kartus, eilutėse: 580 714 870 
+five: 9 kartus, eilutėse: 218 266 447 451 518 636 642 700 
+flag: 3 kartus, eilutėse: 87 735 736 
+flaminio: 4 kartus, eilutėse: 635 698 700 
+florence: 4 kartus, eilutėse: 254 279 596 
+flow: 2 kartus, eilutėse: 155 743 
+fontana: 4 kartus, eilutėse: 251 587 598 629 
+food: 9 kartus, eilutėse: 147 528 529 576 946 
+football: 2 kartus, eilutėse: 694 953 
+for: 90 kartus, eilutėse: 65 143 147 163 182 190 204 206 208 214 216 218 228 242 256 264 266 270 277 299 315 422 447 496 504 518 529 531 576 582 592 596 603 609 622 630 648 654 656 663 675 689 694 698 700 712 716 718 764 851 927 955 
+fora: 2 kartus, eilutėse: 197 
+force: 2 kartus, eilutėse: 210 232 
+forced: 3 kartus, eilutėse: 232 242 270 
+ford: 2 kartus, eilutėse: 291 
+foreign: 6 kartus, eilutėse: 213 279 524 609 
+form: 2 kartus, eilutėse: 210 234 
+forms: 5 kartus, eilutėse: 596 615 656 833 
+forty: 2 kartus, eilutėse: 242 648 
+forum: 7 kartus, eilutėse: 168 181 592 594 636 776 912 
+fought: 7 kartus, eilutėse: 186 204 232 234 238 277 
+foundation: 6 kartus, eilutėse: 182 506 598 1000 1002 
+foundations: 2 kartus, eilutėse: 254 642 
+founded: 18 kartus, eilutėse: 109 110 168 174 238 445 506 602 605 609 654 665 689 694 
+founder: 2 kartus, eilutėse: 151 252 
+founding: 8 kartus, eilutėse: 143 151 165 170 200 506 832 835 
+fountain: 3 kartus, eilutėse: 73 621 624 
+fountains: 11 kartus, eilutėse: 592 596 618 619 622 624 
+four: 4 kartus, eilutėse: 145 630 656 726 
+fourth: 4 kartus, eilutėse: 447 663 730 913 
+france: 2 kartus, eilutėse: 537 
+francis: 2 kartus, eilutėse: 914 937 
+free: 4 kartus, eilutėse: 3 64 447 939 
+french: 15 kartus, eilutėse: 242 275 279 539 576 609 877 878 884 895 
+frequently: 2 kartus, eilutėse: 309 518 
+frescoes: 2 kartus, eilutėse: 258 264 
+from: 240 kartus, eilutėse: 64 71 143 151 153 155 156 157 159 168 184 188 195 200 204 206 208 210 214 216 218 224 231 247 252 254 268 279 293 311 445 447 449 460 483 485 498 502 504 506 520 578 582 596 609 614 615 622 642 648 679 687 710 718 726 743 744 746 748 749 750 753 755 757 759 760 761 762 763 768 770 773 774 776 785 786 794 795 798 802 803 807 814 816 820 821 822 823 824 827 828 831 832 833 834 835 836 837 841 845 847 848 849 850 851 852 853 854 855 856 858 859 863 864 865 866 868 871 872 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 914 916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 950 951 952 953 954 955 956 957 958 959 960 961 962 978 979 980 981 982 983 984 985 986 
+ft: 4 kartus, eilutėse: 118 293 315 
+fuksas: 2 kartus, eilutėse: 598 921 
+full: 2 kartus, eilutėse: 689 728 
+fund: 3 kartus, eilutėse: 147 529 576 
+fuori: 2 kartus, eilutėse: 137 761 
+further: 5 kartus, eilutėse: 206 221 522 582 700 
+future: 2 kartus, eilutėse: 168 955 
+gallery: 2 kartus, eilutėse: 598 
+games: 5 kartus, eilutėse: 694 698 700 955 
+garden: 3 kartus, eilutėse: 299 
+gardens: 9 kartus, eilutėse: 295 296 298 299 624 636 937 
+garlic: 2 kartus, eilutėse: 681 
+gave: 4 kartus, eilutėse: 208 218 228 252 
+gawc: 2 kartus, eilutėse: 578 900 
+gdp: 8 kartus, eilutėse: 578 748 906 
+general: 3 kartus, eilutėse: 188 218 596 
+generally: 4 kartus, eilutėse: 141 224 309 
+generals: 2 kartus, eilutėse: 188 204 
+geografica: 2 kartus, eilutėse: 609 933 
+geographic: 3 kartus, eilutėse: 786 991 
+geographical: 2 kartus, eilutėse: 609 803 
+geography: 6 kartus, eilutėse: 16 141 287 773 774 804 
+german: 3 kartus, eilutėse: 576 609 971 
+ghirlandaio: 2 kartus, eilutėse: 254 264 
+gian: 3 kartus, eilutėse: 251 629 767 
+giuseppe: 2 kartus, eilutėse: 277 
+glenn: 2 kartus, eilutėse: 447 840 
+global: 9 kartus, eilutėse: 529 578 663 852 898 901 906 943 
+god: 2 kartus, eilutėse: 179 496 
+gods: 2 kartus, eilutėse: 496 630 
+golden: 2 kartus, eilutėse: 266 624 
+gothic: 5 kartus, eilutėse: 216 218 224 447 
+governed: 3 kartus, eilutėse: 208 516 518 
+government: 16 kartus, eilutėse: 20 111 159 204 210 510 516 524 529 576 582 883 890 891 894 929 
+governors: 3 kartus, eilutėse: 206 208 
+grain: 7 kartus, eilutėse: 179 216 218 447 
+grand: 3 kartus, eilutėse: 596 917 959 
+grande: 3 kartus, eilutėse: 710 794 972 
+great: 7 kartus, eilutėse: 200 206 264 596 698 785 786 
+greatest: 4 kartus, eilutėse: 200 264 483 802 
+greatly: 3 kartus, eilutėse: 285 596 615 
+greek: 7 kartus, eilutėse: 155 157 168 184 673 743 
+green: 8 kartus, eilutėse: 293 299 820 842 
+gregorian: 2 kartus, eilutėse: 498 609 
+gregory: 6 kartus, eilutėse: 218 232 241 242 447 831 
+grew: 3 kartus, eilutėse: 168 451 
+group: 3 kartus, eilutėse: 147 656 963 
+groups: 3 kartus, eilutėse: 188 224 455 
+growth: 4 kartus, eilutėse: 283 285 449 833 
+guardian: 3 kartus, eilutėse: 622 818 960 
+guida: 3 kartus, eilutėse: 965 967 972 
+guide: 3 kartus, eilutėse: 163 829 952 
+h: 3 kartus, eilutėse: 832 835 913 
+ha: 3 kartus, eilutėse: 140 445 687 
+had: 24 kartus, eilutėse: 168 174 200 204 213 214 218 232 238 285 445 447 449 578 622 656 658 724 
+half: 6 kartus, eilutėse: 200 206 252 449 458 
+hall: 4 kartus, eilutėse: 513 516 
+handed: 2 kartus, eilutėse: 174 182 
+has: 51 kartus, eilutėse: 143 147 159 299 305 447 460 485 496 504 513 516 518 529 531 578 598 603 605 609 615 622 648 654 656 673 694 700 702 712 716 718 726 730 732 818 908 
+have: 19 kartus, eilutėse: 147 153 167 168 224 270 447 506 622 630 654 665 687 728 730 
+having: 3 kartus, eilutėse: 228 268 529 
+he: 10 kartus, eilutėse: 204 206 208 210 242 283 675 
+headquarters: 11 kartus, eilutėse: 141 147 528 571 573 575 580 582 
+heavy: 2 kartus, eilutėse: 580 718 
+held: 4 kartus, eilutėse: 242 496 506 724 
+helped: 2 kartus, eilutėse: 449 718 
+heritage: 4 kartus, eilutėse: 136 147 761 998 
+hide: 2 kartus, eilutėse: 10 42 
+high: 4 kartus, eilutėse: 147 311 317 496 
+higher: 3 kartus, eilutėse: 578 603 
+highest: 5 kartus, eilutėse: 258 313 578 
+highly: 2 kartus, eilutėse: 498 673 
+highspeed: 2 kartus, eilutėse: 712 
+hilgemann: 16 kartus, eilutėse: 771 777 778 779 780 781 782 783 788 789 790 792 793 796 797 971 
+hill: 20 kartus, eilutėse: 167 168 195 291 299 502 516 636 710 
+hills: 5 kartus, eilutėse: 141 156 291 754 
+him: 3 kartus, eilutėse: 206 242 
+himself: 3 kartus, eilutėse: 159 190 279 
+his: 26 kartus, eilutėse: 159 174 190 200 204 206 210 234 238 242 252 258 266 504 636 675 
+historic: 10 kartus, eilutėse: 137 147 291 483 516 520 524 718 761 767 
+historical: 3 kartus, eilutėse: 426 592 804 
+historically: 2 kartus, eilutėse: 506 603 
+history: 27 kartus, eilutėse: 14 39 143 161 162 164 174 244 489 609 656 755 764 772 776 798 800 802 803 833 837 839 918 937 951 
+hollywood: 3 kartus, eilutėse: 658 687 942 
+holy: 8 kartus, eilutėse: 137 141 228 504 529 592 761 
+home: 9 kartus, eilutėse: 496 498 596 693 694 700 
+hopes: 2 kartus, eilutėse: 242 279 
+host: 6 kartus, eilutėse: 147 531 654 698 
+hosted: 8 kartus, eilutėse: 228 264 531 596 694 698 700 702 
+hosts: 12 kartus, eilutėse: 147 506 531 576 580 605 636 654 687 702 
+hours: 2 kartus, eilutėse: 417 718 
+house: 2 kartus, eilutėse: 147 654 
+houses: 2 kartus, eilutėse: 524 665 
+however: 11 kartus, eilutėse: 153 168 206 218 242 283 656 743 
+hub: 2 kartus, eilutėse: 582 594 
+huge: 4 kartus, eilutėse: 256 270 580 598 
+human: 6 kartus, eilutėse: 143 147 168 531 833 
+humidity: 2 kartus, eilutėse: 311 402 
+hundred: 4 kartus, eilutėse: 145 266 460 656 
+hypothesis: 2 kartus, eilutėse: 743 744 
+i: 5 kartus, eilutėse: 210 283 447 449 913 
+iconic: 2 kartus, eilutėse: 285 594 
+ideas: 2 kartus, eilutėse: 270 630 
+identified: 2 kartus, eilutėse: 159 451 
+ideology: 2 kartus, eilutėse: 753 959 
+ieri: 2 kartus, eilutėse: 766 973 
+ii: 12 kartus, eilutėse: 85 210 232 234 252 258 264 283 641 642 702 
+iii: 7 kartus, eilutėse: 228 234 279 447 502 801 
+il: 12 kartus, eilutėse: 630 865 871 904 921 942 961 
+image: 3 kartus, eilutėse: 167 197 290 
+immigrant: 2 kartus, eilutėse: 458 460 
+immigrants: 2 kartus, eilutėse: 460 
+imperator: 2 kartus, eilutėse: 200 784 
+imperial: 7 kartus, eilutėse: 143 197 199 206 228 622 636 
+importance: 2 kartus, eilutėse: 226 236 
+important: 17 kartus, eilutėse: 147 226 496 498 500 531 580 582 592 596 605 609 654 663 
+in: 482 kartus, eilutėse: 8 96 97 100 120 121 137 141 143 145 147 155 159 168 174 179 184 188 190 195 197 199 200 204 206 208 210 213 214 216 218 223 224 228 231 232 234 236 238 241 242 249 251 252 256 261 264 266 268 270 275 277 279 283 285 291 296 298 299 304 307 309 311 313 420 425 445 447 449 451 453 457 460 482 483 485 488 489 491 496 498 500 504 506 509 511 513 516 518 520 522 524 528 529 531 534 538 539 571 573 575 576 578 580 582 585 587 591 592 594 596 598 602 605 609 612 615 617 619 621 622 624 630 633 636 639 642 648 651 654 656 663 665 675 677 679 681 684 686 687 689 693 694 700 702 705 712 714 718 724 726 728 730 732 740 750 753 755 758 761 770 805 811 817 819 824 828 829 831 836 844 846 850 852 855 864 865 867 868 869 870 877 878 884 886 895 898 899 901 905 908 909 910 918 921 929 938 939 942 949 950 951 959 961 962 965 967 968 971 972 973 974 987 988 989 990 998 
+include: 9 kartus, eilutėse: 498 524 609 630 648 681 702 
+included: 4 kartus, eilutėse: 445 502 522 677 
+including: 9 kartus, eilutėse: 206 254 266 293 299 576 594 609 654 
+increase: 2 kartus, eilutėse: 168 518 
+independent: 2 kartus, eilutėse: 141 504 
+index: 3 kartus, eilutėse: 578 603 925 
+industrial: 2 kartus, eilutėse: 147 605 
+industry: 3 kartus, eilutėse: 580 582 
+inflation: 2 kartus, eilutėse: 204 
+influence: 3 kartus, eilutėse: 275 483 485 
+influenced: 2 kartus, eilutėse: 502 673 
+information: 3 kartus, eilutėse: 221 963 985 
+inhabitants: 3 kartus, eilutėse: 283 451 718 
+inhabited: 3 kartus, eilutėse: 143 224 677 
+inside: 4 kartus, eilutėse: 96 97 141 598 
+institute: 10 kartus, eilutėse: 147 498 531 576 594 609 856 912 
+institutes: 4 kartus, eilutėse: 576 594 609 
+institution: 2 kartus, eilutėse: 605 906 
+institutions: 4 kartus, eilutėse: 498 576 654 
+internal: 2 kartus, eilutėse: 184 252 
+international: 29 kartus, eilutėse: 147 460 526 529 531 576 580 582 598 603 605 714 751 881 890 892 893 968 
+internationally: 2 kartus, eilutėse: 700 712 
+internazionali: 2 kartus, eilutėse: 877 878 
+into: 15 kartus, eilutėse: 204 206 232 234 256 283 291 460 518 520 658 718 
+involved: 2 kartus, eilutėse: 232 531 
+is: 163 kartus, eilutėse: 96 97 100 141 143 147 153 155 156 168 174 197 199 200 218 224 226 249 291 293 299 307 309 311 447 451 460 483 485 493 496 498 500 502 504 506 516 518 520 522 524 529 531 535 540 571 578 580 582 592 594 596 598 602 603 605 609 614 615 622 630 636 642 648 654 656 663 677 679 687 689 693 694 700 710 712 714 716 724 728 730 732 750 770 908 1000 
+isbn: 33 kartus, eilutėse: 751 752 753 772 784 787 803 805 810 819 829 831 833 836 837 839 843 844 845 852 857 867 935 946 948 959 963 966 969 972 974 
+issn: 9 kartus, eilutėse: 767 795 832 834 840 841 863 915 968 
+istat: 5 kartus, eilutėse: 444 747 847 854 856 
+istituto: 2 kartus, eilutėse: 609 758 
+isvromait: 2 kartus, eilutėse: 911 
+it: 53 kartus, eilutėse: 141 143 145 153 204 206 208 210 224 234 242 279 299 445 447 449 460 485 502 513 516 578 580 598 602 603 605 609 636 654 698 714 718 724 728 730 743 770 
+italia: 2 kartus, eilutėse: 598 956 
+italian: 68 kartus, eilutėse: 67 126 141 143 145 147 184 254 274 277 279 283 285 291 299 451 485 504 515 516 524 529 538 580 582 615 687 700 702 712 758 763 807 817 819 828 856 864 865 867 868 869 921 929 937 942 949 950 961 962 965 967 972 973 974 987 
+italiana: 5 kartus, eilutėse: 147 609 617 933 
+italy: 55 kartus, eilutėse: 101 102 121 141 145 147 168 174 184 228 264 279 283 291 423 445 449 451 483 496 516 522 524 534 576 578 580 605 609 700 712 714 735 740 759 762 767 829 845 856 948 998 
+italys: 7 kartus, eilutėse: 605 609 714 818 888 
+items: 2 kartus, eilutėse: 214 
+its: 41 kartus, eilutėse: 141 147 153 159 188 200 208 214 224 228 266 299 307 451 483 504 506 518 522 529 576 578 580 592 605 622 630 665 679 687 700 702 710 712 716 
+itself: 4 kartus, eilutėse: 232 445 498 578 
+iv: 7 kartus, eilutėse: 234 252 268 502 675 965 
+ix: 2 kartus, eilutėse: 279 816 
+janes: 2 kartus, eilutėse: 963 
+january: 39 kartus, eilutėse: 307 309 464 522 749 776 802 814 818 831 833 835 836 837 848 853 854 856 877 890 893 907 924 926 930 934 939 940 941 942 944 952 962 
+jesuit: 2 kartus, eilutėse: 270 609 
+jesus: 3 kartus, eilutėse: 200 504 863 
+jewish: 3 kartus, eilutėse: 500 648 681 
+jews: 2 kartus, eilutėse: 489 679 
+john: 7 kartus, eilutėse: 491 498 609 770 804 836 
+johns: 2 kartus, eilutėse: 609 765 
+jones: 2 kartus, eilutėse: 447 842 
+jos: 2 kartus, eilutėse: 810 908 
+journal: 6 kartus, eilutėse: 767 791 832 834 835 968 
+jstor: 5 kartus, eilutėse: 756 795 832 835 915 
+julius: 4 kartus, eilutėse: 252 258 264 622 
+july: 30 kartus, eilutėse: 283 311 313 531 749 762 818 822 824 825 826 831 833 834 837 853 856 877 878 884 886 895 898 900 914 929 943 
+june: 25 kartus, eilutėse: 275 283 726 755 761 768 770 786 791 837 855 863 883 888 892 894 904 905 906 934 989 999 
+just: 2 kartus, eilutėse: 445 447 
+kinder: 16 kartus, eilutėse: 771 777 778 779 780 781 782 783 788 789 790 792 793 796 797 971 
+king: 9 kartus, eilutėse: 110 151 184 214 228 242 
+kingdom: 6 kartus, eilutėse: 143 145 177 224 279 449 
+kings: 3 kartus, eilutėse: 182 291 
+km: 9 kartus, eilutėse: 293 687 710 714 716 726 728 730 732 
+km2: 6 kartus, eilutėse: 117 141 293 299 451 522 
+known: 18 kartus, eilutėse: 200 204 218 299 496 506 598 622 630 675 677 718 
+krak�w: 4 kartus, eilutėse: 553 886 
+krautheimer: 4 kartus, eilutėse: 447 799 805 843 
+la: 19 kartus, eilutėse: 143 285 605 757 794 858 875 904 922 933 936 942 961 972 
+lacuscurtius: 2 kartus, eilutėse: 774 866 
+lamb: 2 kartus, eilutėse: 677 679 
+lancon: 3 kartus, eilutėse: 447 805 844 
+land: 2 kartus, eilutėse: 516 914 
+language: 6 kartus, eilutėse: 479 483 485 663 943 
+large: 18 kartus, eilutėse: 49 188 214 216 218 224 283 299 483 485 603 689 698 
+largely: 4 kartus, eilutėse: 283 460 580 718 
+larger: 2 kartus, eilutėse: 218 850 
+largescale: 3 kartus, eilutėse: 188 268 648 
+largest: 21 kartus, eilutėse: 168 216 299 445 493 516 522 573 580 602 605 609 654 686 687 693 712 802 899 907 
+last: 9 kartus, eilutėse: 184 204 210 242 279 504 605 795 999 
+late: 9 kartus, eilutėse: 188 272 283 299 447 596 656 805 844 
+later: 12 kartus, eilutėse: 182 206 242 496 500 502 596 615 675 724 726 
+lateran: 4 kartus, eilutėse: 491 498 502 
+latin: 15 kartus, eilutėse: 91 93 141 143 155 182 480 483 506 743 857 
+latins: 2 kartus, eilutėse: 143 184 
+latium: 3 kartus, eilutėse: 141 184 228 
+law: 3 kartus, eilutėse: 531 648 
+lazio: 10 kartus, eilutėse: 107 141 291 522 693 694 700 
+lbs: 3 kartus, eilutėse: 218 447 
+le: 6 kartus, eilutėse: 137 761 824 875 884 952 
+leaves: 2 kartus, eilutėse: 681 
+led: 13 kartus, eilutėse: 184 188 190 214 256 268 283 504 718 
+left: 3 kartus, eilutėse: 167 199 642 
+legend: 6 kartus, eilutėse: 168 170 174 506 770 
+leo: 6 kartus, eilutėse: 228 252 258 485 502 
+leonardo: 4 kartus, eilutėse: 147 707 714 865 
+les: 3 kartus, eilutėse: 880 936 
+less: 2 kartus, eilutėse: 447 449 
+level: 6 kartus, eilutėse: 168 204 293 578 
+libraries: 5 kartus, eilutėse: 609 
+library: 6 kartus, eilutėse: 252 609 
+life: 5 kartus, eilutėse: 218 228 285 485 866 
+light: 3 kartus, eilutėse: 59 309 968 
+like: 10 kartus, eilutėse: 167 204 206 234 258 264 496 624 743 
+limited: 4 kartus, eilutėse: 718 767 937 
+limits: 5 kartus, eilutėse: 141 447 453 529 648 
+line: 13 kartus, eilutėse: 174 724 726 728 730 
+lines: 4 kartus, eilutėse: 710 726 732 
+link: 2 kartus, eilutėse: 609 869 
+linked: 2 kartus, eilutėse: 506 712 
+links: 2 kartus, eilutėse: 32 975 
+list: 9 kartus, eilutėse: 296 534 585 619 633 639 684 
+lived: 3 kartus, eilutėse: 279 451 
+livy: 2 kartus, eilutėse: 764 772 
+local: 4 kartus, eilutėse: 516 694 700 702 
+located: 18 kartus, eilutėse: 100 141 147 195 293 520 524 529 531 576 582 594 636 714 716 
+location: 6 kartus, eilutėse: 101 288 609 647 689 712 
+lombard: 2 kartus, eilutėse: 228 
+lombards: 2 kartus, eilutėse: 228 
+london: 8 kartus, eilutėse: 592 765 842 846 857 913 937 960 
+loot: 2 kartus, eilutėse: 214 232 
+lord: 2 kartus, eilutėse: 204 232 
+lorenzo: 6 kartus, eilutėse: 251 283 609 629 718 825 
+lorne: 2 kartus, eilutėse: 832 835 
+loss: 2 kartus, eilutėse: 216 268 
+low: 2 kartus, eilutėse: 311 373 
+loyola: 2 kartus, eilutėse: 609 810 
+ltd: 2 kartus, eilutėse: 772 842 
+lucius: 3 kartus, eilutėse: 174 182 234 
+lucrezia: 2 kartus, eilutėse: 630 
+luigi: 4 kartus, eilutėse: 630 949 965 
+luiss: 3 kartus, eilutėse: 605 929 
+luxury: 3 kartus, eilutėse: 147 665 
+m: 6 kartus, eilutėse: 118 293 315 702 816 
+machine: 4 kartus, eilutėse: 825 866 873 989 
+madama: 2 kartus, eilutėse: 630 
+made: 9 kartus, eilutėse: 145 147 190 204 216 529 687 698 732 
+madrid: 2 kartus, eilutėse: 554 887 
+maggiore: 5 kartus, eilutėse: 214 457 493 498 500 
+main: 31 kartus, eilutėse: 162 165 171 177 193 245 296 302 480 488 529 569 576 585 594 612 615 619 630 633 639 645 651 668 684 705 712 714 716 724 
+maintain: 2 kartus, eilutėse: 216 
+mairie: 2 kartus, eilutėse: 880 881 
+mais: 2 kartus, eilutėse: 810 
+major: 30 kartus, eilutėse: 143 145 188 206 256 268 309 496 500 504 576 580 594 596 603 609 622 656 665 673 712 718 853 
+making: 6 kartus, eilutėse: 143 145 513 516 609 718 
+malta: 2 kartus, eilutėse: 529 609 
+many: 21 kartus, eilutėse: 143 147 214 256 264 293 449 460 504 576 592 605 609 647 656 658 673 687 698 
+map: 6 kartus, eilutėse: 98 102 103 247 721 821 
+maps: 2 kartus, eilutėse: 767 853 
+march: 32 kartus, eilutėse: 283 746 759 760 763 768 773 786 787 802 816 823 866 868 871 875 891 899 907 908 910 919 920 924 957 
+marcus: 2 kartus, eilutėse: 636 
+marforio: 2 kartus, eilutėse: 630 
+maria: 4 kartus, eilutėse: 214 457 493 498 
+mario: 3 kartus, eilutėse: 247 972 973 
+mark: 2 kartus, eilutėse: 190 624 
+marked: 7 kartus, eilutėse: 145 204 214 234 238 252 
+market: 4 kartus, eilutėse: 197 224 594 748 
+max: 3 kartus, eilutėse: 609 934 
+maximus: 3 kartus, eilutėse: 299 495 496 
+may: 33 kartus, eilutėse: 224 316 447 702 756 757 763 767 774 785 803 841 848 872 874 875 879 887 895 900 904 916 918 928 934 951 952 959 960 1000 
+mayor: 3 kartus, eilutėse: 113 511 516 
+mean: 5 kartus, eilutėse: 309 331 345 359 417 
+meaning: 2 kartus, eilutėse: 200 506 
+means: 2 kartus, eilutėse: 157 578 
+media: 2 kartus, eilutėse: 954 979 
+medici: 4 kartus, eilutėse: 258 299 485 609 
+medieval: 3 kartus, eilutėse: 485 520 622 
+mediterranean: 5 kartus, eilutėse: 186 305 716 787 910 
+meet: 2 kartus, eilutėse: 204 658 
+members: 3 kartus, eilutėse: 218 258 518 
+messaggero: 2 kartus, eilutėse: 871 961 
+metro: 6 kartus, eilutėse: 129 718 723 724 960 961 
+metropolitan: 21 kartus, eilutėse: 96 97 108 124 125 141 451 453 522 748 807 890 891 894 998 
+metropolitana: 3 kartus, eilutėse: 96 97 724 
+mi: 16 kartus, eilutėse: 117 123 125 293 299 451 522 687 710 714 716 726 728 730 732 
+michelangelo: 3 kartus, eilutėse: 254 258 264 
+middle: 13 kartus, eilutėse: 145 168 214 220 228 249 447 504 520 
+midfifth: 2 kartus, eilutėse: 447 
+migration: 2 kartus, eilutėse: 188 483 
+milan: 5 kartus, eilutėse: 206 578 663 
+milano: 3 kartus, eilutėse: 949 965 967 
+military: 4 kartus, eilutėse: 208 529 714 
+million: 18 kartus, eilutėse: 147 224 283 285 447 449 451 453 592 609 714 726 
+minerva: 2 kartus, eilutėse: 496 865 
+ministries: 3 kartus, eilutėse: 206 524 582 
+minor: 2 kartus, eilutėse: 596 654 
+minors: 2 kartus, eilutėse: 451 
+mint: 2 kartus, eilutėse: 681 
+mm: 2 kartus, eilutėse: 387 401 
+model: 5 kartus, eilutėse: 167 199 204 208 968 
+modern: 20 kartus, eilutėse: 244 272 291 445 483 485 506 592 598 609 615 636 642 679 724 
+monitor: 2 kartus, eilutėse: 663 943 
+monk: 2 kartus, eilutėse: 232 234 
+monte: 3 kartus, eilutėse: 293 767 827 
+month: 6 kartus, eilutėse: 218 242 307 316 447 
+monthly: 3 kartus, eilutėse: 417 747 825 
+months: 4 kartus, eilutėse: 218 309 447 
+monti: 2 kartus, eilutėse: 77 587 
+monument: 2 kartus, eilutėse: 85 249 
+monumental: 3 kartus, eilutėse: 197 216 622 
+monuments: 4 kartus, eilutėse: 247 268 592 630 
+more: 19 kartus, eilutėse: 188 204 206 208 224 266 285 299 451 460 578 605 622 636 656 687 718 770 
+moreover: 3 kartus, eilutėse: 483 522 636 
+most: 49 kartus, eilutėse: 141 147 174 204 214 264 277 299 309 447 483 496 591 592 594 598 603 605 609 630 642 648 656 663 677 689 694 712 714 760 908 909 
+move: 2 kartus, eilutėse: 285 718 
+moved: 2 kartus, eilutėse: 254 279 
+movement: 2 kartus, eilutėse: 268 656 
+much: 9 kartus, eilutėse: 143 168 206 299 485 496 502 609 656 
+multan: 2 kartus, eilutėse: 555 888 
+mundi: 5 kartus, eilutėse: 93 143 159 200 887 
+municipality: 7 kartus, eilutėse: 122 123 141 513 516 892 893 
+municipi: 4 kartus, eilutėse: 518 871 
+municipio: 2 kartus, eilutėse: 518 
+mura: 2 kartus, eilutėse: 137 761 
+museum: 4 kartus, eilutėse: 199 591 598 807 
+museums: 11 kartus, eilutėse: 502 582 591 592 596 908 989 990 
+music: 8 kartus, eilutėse: 256 651 654 656 
+musica: 2 kartus, eilutėse: 654 920 
+musical: 3 kartus, eilutėse: 654 
+mussolini: 6 kartus, eilutėse: 283 449 689 817 
+mythical: 2 kartus, eilutėse: 173 630 
+mythology: 2 kartus, eilutėse: 143 765 
+myths: 2 kartus, eilutėse: 174 
+n: 2 kartus, eilutėse: 857 933 
+name: 17 kartus, eilutėse: 12 137 149 151 153 155 159 174 210 232 252 516 594 656 743 
+named: 7 kartus, eilutėse: 141 156 200 206 516 518 622 
+napoleon: 2 kartus, eilutėse: 275 279 
+natale: 2 kartus, eilutėse: 495 506 
+nation: 2 kartus, eilutėse: 576 925 
+national: 13 kartus, eilutėse: 524 578 582 598 609 700 786 827 856 888 
+nations: 11 kartus, eilutėse: 147 529 576 700 851 
+nato: 2 kartus, eilutėse: 531 576 
+nature: 2 kartus, eilutėse: 299 
+navona: 3 kartus, eilutėse: 263 589 636 
+nazi: 2 kartus, eilutėse: 283 818 
+nazionale: 2 kartus, eilutėse: 654 919 
+near: 5 kartus, eilutėse: 279 299 524 578 648 
+nearby: 5 kartus, eilutėse: 285 299 679 714 
+needed: 5 kartus, eilutėse: 449 451 687 689 718 
+neighbourhood: 2 kartus, eilutėse: 460 598 
+neil: 2 kartus, eilutėse: 447 845 
+neoclassical: 4 kartus, eilutėse: 596 615 622 642 
+network: 5 kartus, eilutėse: 147 710 732 849 
+new: 36 kartus, eilutėse: 200 204 206 234 238 242 254 264 268 270 283 556 557 605 615 624 654 658 663 673 698 726 770 811 812 814 816 889 924 942 958 
+newly: 2 kartus, eilutėse: 206 724 
+news: 2 kartus, eilutėse: 823 980 
+newton: 6 kartus, eilutėse: 766 819 867 972 973 974 
+nicholas: 2 kartus, eilutėse: 145 252 
+nicomedia: 2 kartus, eilutėse: 206 
+night: 5 kartus, eilutėse: 228 307 309 
+nighttime: 2 kartus, eilutėse: 718 
+no: 4 kartus, eilutėse: 218 810 912 952 
+noble: 2 kartus, eilutėse: 232 829 
+nonadministrative: 2 kartus, eilutėse: 518 520 
+normals: 2 kartus, eilutėse: 315 827 
+norman: 2 kartus, eilutėse: 483 804 
+north: 12 kartus, eilutėse: 204 216 228 279 291 447 522 609 714 753 925 932 
+northern: 2 kartus, eilutėse: 468 475 
+not: 16 kartus, eilutėse: 167 204 206 214 238 270 309 622 630 663 718 
+notable: 4 kartus, eilutėse: 270 299 
+notably: 2 kartus, eilutėse: 576 698 
+noted: 2 kartus, eilutėse: 609 630 
+notes: 2 kartus, eilutėse: 29 741 
+novel: 2 kartus, eilutėse: 447 801 
+november: 17 kartus, eilutėse: 311 728 746 820 831 864 865 873 882 896 908 923 943 958 961 
+now: 3 kartus, eilutėse: 578 700 724 
+number: 11 kartus, eilutėse: 218 299 447 451 483 518 596 636 
+numerous: 11 kartus, eilutėse: 147 204 498 582 594 596 603 622 642 
+o: 2 kartus, eilutėse: 810 
+oates: 2 kartus, eilutėse: 447 841 
+obelisk: 2 kartus, eilutėse: 635 636 
+obelisks: 6 kartus, eilutėse: 632 633 636 938 
+occupation: 2 kartus, eilutėse: 168 818 
+occupied: 2 kartus, eilutėse: 143 283 
+occurring: 2 kartus, eilutėse: 309 
+oclc: 7 kartus, eilutėse: 787 914 946 948 963 965 971 
+octavian: 3 kartus, eilutėse: 190 200 
+october: 27 kartus, eilutėse: 803 822 852 864 865 869 878 880 881 887 892 896 897 909 912 932 943 944 951 953 954 955 
+oecd: 3 kartus, eilutėse: 852 
+of: 849 kartus, eilutėse: 89 94 95 96 97 102 103 137 141 143 145 147 153 155 156 159 162 163 165 167 168 170 173 174 179 181 182 184 186 188 190 195 197 199 200 204 206 208 210 214 216 218 221 224 226 228 231 232 234 236 238 242 247 252 254 256 258 263 264 266 268 270 274 275 277 279 282 283 285 290 291 293 296 298 299 302 309 311 422 423 445 447 449 451 453 458 460 464 465 483 485 489 491 493 495 496 498 500 502 504 506 508 511 513 515 516 518 520 522 524 529 531 534 540 569 571 573 576 578 580 582 585 591 592 594 596 598 602 603 605 609 614 615 619 621 622 624 627 630 633 636 639 642 645 647 648 654 656 658 673 675 677 679 681 684 687 693 694 698 700 702 709 710 712 714 716 718 724 726 728 730 732 738 749 751 752 753 754 756 761 762 764 767 770 772 775 785 786 787 791 795 799 804 805 807 812 814 818 821 823 829 831 832 833 834 835 837 840 841 842 843 845 851 853 856 857 866 870 872 882 889 892 893 894 895 898 912 913 916 917 926 928 929 930 940 945 951 952 968 987 988 993 998 1000 1001 
+office: 8 kartus, eilutėse: 147 687 988 
+official: 6 kartus, eilutėse: 137 210 524 531 988 989 
+often: 9 kartus, eilutėse: 141 236 609 630 656 677 728 
+oggi: 4 kartus, eilutėse: 766 824 933 973 
+oil: 4 kartus, eilutėse: 447 571 681 898 
+old: 7 kartus, eilutėse: 231 247 264 299 496 522 755 
+older: 3 kartus, eilutėse: 174 609 714 
+oldest: 7 kartus, eilutėse: 143 513 516 602 605 609 
+olimpico: 4 kartus, eilutėse: 693 694 698 700 
+olympic: 7 kartus, eilutėse: 524 531 698 952 955 
+olympics: 3 kartus, eilutėse: 147 698 
+on: 200 kartus, eilutėse: 147 153 167 168 174 188 206 214 216 218 228 231 238 254 268 283 291 299 309 313 445 447 502 504 506 516 531 578 592 598 648 656 679 687 689 702 716 718 724 726 728 730 746 748 749 750 755 757 759 760 761 762 763 768 770 773 774 776 785 786 794 795 802 803 807 814 816 820 821 822 823 824 827 828 831 833 834 836 837 841 847 848 849 850 851 852 853 854 855 856 858 859 863 864 865 868 871 872 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 914 916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 950 951 952 953 954 955 956 957 958 959 960 961 962 999 
+once: 3 kartus, eilutėse: 232 500 615 
+one: 35 kartus, eilutėse: 141 143 145 168 206 264 283 299 449 493 571 578 592 594 596 598 602 605 609 615 622 654 677 687 689 693 712 718 
+ones: 3 kartus, eilutėse: 309 576 630 
+only: 14 kartus, eilutėse: 141 291 445 540 596 630 642 648 687 689 716 718 
+onward: 3 kartus, eilutėse: 216 447 
+open: 4 kartus, eilutėse: 598 702 730 
+opened: 7 kartus, eilutėse: 609 724 726 728 
+openstreetmap: 2 kartus, eilutėse: 99 991 
+opera: 2 kartus, eilutėse: 654 675 
+or: 34 kartus, eilutėse: 155 156 159 206 218 234 249 309 315 447 458 460 483 622 630 642 648 665 677 702 710 718 770 953 
+order: 6 kartus, eilutėse: 204 270 283 529 605 700 
+organisation: 2 kartus, eilutėse: 147 234 
+organization: 8 kartus, eilutėse: 147 528 529 531 576 1000 
+origin: 5 kartus, eilutėse: 153 182 299 455 791 
+original: 135 kartus, eilutėse: 291 746 748 749 750 755 757 759 760 761 762 763 768 770 773 774 776 785 786 794 795 802 803 807 814 816 820 821 822 823 824 827 828 831 833 834 836 837 841 847 848 849 850 851 852 853 854 855 856 858 859 863 864 865 868 871 872 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 914 916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 950 951 952 953 954 955 956 957 958 959 960 961 962 
+originally: 2 kartus, eilutėse: 518 648 
+originates: 2 kartus, eilutėse: 743 744 
+origins: 2 kartus, eilutėse: 458 
+ostia: 3 kartus, eilutėse: 293 299 716 
+other: 33 kartus, eilutėse: 65 158 232 234 238 256 264 283 445 458 460 467 485 496 502 531 541 578 596 609 624 630 642 656 665 702 718 
+others: 3 kartus, eilutėse: 498 592 636 
+otto: 2 kartus, eilutėse: 232 
+out: 2 kartus, eilutėse: 188 524 
+outer: 2 kartus, eilutėse: 681 
+outside: 4 kartus, eilutėse: 232 279 498 648 
+over: 16 kartus, eilutėse: 143 145 186 200 206 228 451 504 615 687 693 714 726 728 730 732 
+overall: 2 kartus, eilutėse: 218 293 
+own: 3 kartus, eilutėse: 679 716 
+oxford: 2 kartus, eilutėse: 784 787 
+p: 39 kartus, eilutėse: 751 752 765 766 769 771 777 778 781 782 783 788 789 790 792 793 796 797 799 803 804 806 808 809 813 815 839 843 844 845 846 862 913 914 933 946 948 959 
+pagan: 2 kartus, eilutėse: 506 648 
+page: 2 kartus, eilutėse: 63 999 
+painters: 2 kartus, eilutėse: 145 264 
+painting: 2 kartus, eilutėse: 274 596 
+paintings: 3 kartus, eilutėse: 264 596 624 
+palaces: 4 kartus, eilutėse: 195 592 596 
+palatine: 9 kartus, eilutėse: 156 167 168 195 216 291 299 
+palazzo: 9 kartus, eilutėse: 147 513 515 516 524 531 571 617 
+pamphili: 4 kartus, eilutėse: 270 299 304 
+pantheon: 3 kartus, eilutėse: 83 293 594 
+paolo: 3 kartus, eilutėse: 137 761 860 
+papacy: 13 kartus, eilutėse: 145 218 232 234 236 241 242 270 496 504 648 
+papal: 11 kartus, eilutėse: 145 228 256 275 279 504 647 656 811 
+papas: 3 kartus, eilutėse: 810 
+parallel: 2 kartus, eilutėse: 679 866 
+parco: 4 kartus, eilutėse: 582 598 654 920 
+parigi: 4 kartus, eilutėse: 538 877 878 
+paris: 12 kartus, eilutėse: 537 539 540 592 596 663 877 880 881 884 936 
+park: 2 kartus, eilutėse: 299 
+parks: 7 kartus, eilutėse: 295 296 299 592 636 
+parliament: 2 kartus, eilutėse: 524 576 
+part: 17 kartus, eilutėse: 188 206 224 242 256 285 293 299 502 506 636 677 687 724 728 
+particular: 2 kartus, eilutėse: 630 
+parties: 2 kartus, eilutėse: 204 228 
+partly: 3 kartus, eilutėse: 491 724 728 
+partner: 2 kartus, eilutėse: 541 889 
+parts: 3 kartus, eilutėse: 283 447 582 
+pasquale: 2 kartus, eilutėse: 968 
+pasquino: 2 kartus, eilutėse: 630 
+patron: 2 kartus, eilutėse: 252 266 
+paul: 6 kartus, eilutėse: 226 496 498 502 836 837 
+pdf: 14 kartus, eilutėse: 757 836 848 858 876 877 878 892 925 
+pecorino: 2 kartus, eilutėse: 681 
+peninsula: 5 kartus, eilutėse: 141 184 483 712 807 
+pensioners: 2 kartus, eilutėse: 451 
+people: 12 kartus, eilutėse: 238 285 422 447 449 451 453 504 630 
+peoples: 2 kartus, eilutėse: 270 483 
+pepe: 2 kartus, eilutėse: 672 681 
+per: 9 kartus, eilutėse: 218 447 451 578 858 950 
+percentage: 2 kartus, eilutėse: 418 483 
+perhaps: 3 kartus, eilutėse: 174 218 447 
+period: 22 kartus, eilutėse: 182 184 188 200 204 228 232 234 236 238 242 252 256 258 264 283 285 485 687 702 775 
+periods: 3 kartus, eilutėse: 504 596 673 
+perugino: 2 kartus, eilutėse: 254 264 
+peter: 9 kartus, eilutėse: 95 159 226 496 504 753 814 958 
+peters: 11 kartus, eilutėse: 79 231 232 254 264 496 498 502 508 509 636 
+philology: 3 kartus, eilutėse: 832 835 841 
+phrase: 2 kartus, eilutėse: 506 913 
+pia: 2 kartus, eilutėse: 274 279 
+piazza: 13 kartus, eilutėse: 83 263 299 457 587 589 635 636 653 726 
+piazzas: 4 kartus, eilutėse: 596 598 622 636 
+pilgrimage: 4 kartus, eilutėse: 496 504 998 
+pius: 6 kartus, eilutėse: 252 268 279 502 675 816 
+place: 6 kartus, eilutėse: 168 504 531 658 694 724 
+placed: 3 kartus, eilutėse: 168 208 718 
+places: 8 kartus, eilutėse: 578 592 630 648 909 998 
+plague: 2 kartus, eilutėse: 204 791 
+planck: 3 kartus, eilutėse: 609 934 
+planned: 4 kartus, eilutėse: 264 724 730 
+played: 3 kartus, eilutėse: 236 531 654 
+plutarch: 2 kartus, eilutėse: 744 866 
+poder: 2 kartus, eilutėse: 810 
+poet: 2 kartus, eilutėse: 143 174 
+point: 3 kartus, eilutėse: 258 403 504 
+policy: 3 kartus, eilutėse: 228 279 1000 
+polish: 2 kartus, eilutėse: 458 886 
+political: 10 kartus, eilutėse: 145 181 236 422 531 576 630 673 834 
+pompey: 2 kartus, eilutėse: 188 190 
+ponte: 12 kartus, eilutėse: 254 630 641 642 
+pontifical: 10 kartus, eilutėse: 498 609 932 
+poorer: 2 kartus, eilutėse: 218 
+pope: 31 kartus, eilutėse: 226 228 232 234 238 241 242 252 258 270 279 447 496 520 816 
+popes: 19 kartus, eilutėse: 145 214 228 232 234 252 254 256 268 270 275 279 485 596 624 675 
+popolo: 3 kartus, eilutėse: 299 635 636 
+populace: 2 kartus, eilutėse: 228 242 
+popular: 11 kartus, eilutėse: 147 190 285 504 630 677 694 702 908 
+populares: 2 kartus, eilutėse: 188 
+population: 49 kartus, eilutėse: 119 141 143 214 216 218 224 279 283 285 426 445 447 449 451 453 458 516 832 835 840 841 850 853 
+populations: 2 kartus, eilutėse: 184 833 
+populous: 4 kartus, eilutėse: 141 447 
+pork: 2 kartus, eilutėse: 218 447 
+port: 2 kartus, eilutėse: 709 716 
+porta: 2 kartus, eilutėse: 274 279 
+portal: 4 kartus, eilutėse: 735 736 737 895 
+portion: 3 kartus, eilutėse: 141 279 702 
+possession: 2 kartus, eilutėse: 242 529 
+possible: 3 kartus, eilutėse: 153 156 418 
+post: 2 kartus, eilutėse: 826 855 
+postwar: 2 kartus, eilutėse: 285 449 
+pottery: 2 kartus, eilutėse: 168 596 
+pounds: 2 kartus, eilutėse: 447 804 
+power: 14 kartus, eilutėse: 188 195 204 206 232 242 268 270 573 899 
+powerful: 2 kartus, eilutėse: 190 232 
+powers: 3 kartus, eilutėse: 228 270 
+pp: 14 kartus, eilutėse: 757 758 775 779 780 784 798 800 805 817 935 
+precipitation: 2 kartus, eilutėse: 387 401 
+predominantly: 2 kartus, eilutėse: 496 656 
+presence: 4 kartus, eilutėse: 147 168 266 283 
+present: 3 kartus, eilutėse: 679 798 837 
+preservation: 3 kartus, eilutėse: 266 531 576 
+president: 3 kartus, eilutėse: 515 518 524 
+press: 12 kartus, eilutėse: 753 754 765 775 787 829 831 837 840 841 945 959 
+prestigious: 2 kartus, eilutėse: 654 665 
+princeps: 2 kartus, eilutėse: 200 
+principal: 6 kartus, eilutėse: 522 576 582 624 712 749 
+principate: 2 kartus, eilutėse: 200 204 
+printed: 2 kartus, eilutėse: 609 764 
+prisoner: 3 kartus, eilutėse: 234 242 279 
+privacy: 2 kartus, eilutėse: 1000 1001 
+private: 3 kartus, eilutėse: 531 622 714 
+problems: 2 kartus, eilutėse: 718 
+process: 3 kartus, eilutėse: 208 483 531 
+proclaimed: 2 kartus, eilutėse: 242 277 
+production: 3 kartus, eilutėse: 687 689 
+productions: 2 kartus, eilutėse: 687 689 
+profile: 3 kartus, eilutėse: 799 805 843 
+programme: 4 kartus, eilutėse: 145 147 529 576 
+project: 3 kartus, eilutėse: 264 730 849 
+projects: 3 kartus, eilutėse: 256 598 977 
+properties: 3 kartus, eilutėse: 137 206 761 
+property: 2 kartus, eilutėse: 531 576 
+proposed: 3 kartus, eilutėse: 153 502 531 
+protected: 2 kartus, eilutėse: 270 502 
+provinces: 4 kartus, eilutėse: 186 206 447 856 
+provincia: 2 kartus, eilutėse: 522 904 
+public: 9 kartus, eilutėse: 197 299 596 605 609 622 642 732 907 
+publishing: 3 kartus, eilutėse: 752 833 852 
+pursued: 2 kartus, eilutėse: 145 228 
+p�g: 4 kartus, eilutėse: 810 
+quarter: 3 kartus, eilutėse: 447 716 728 
+quattro: 2 kartus, eilutėse: 498 642 
+quirinale: 2 kartus, eilutėse: 216 515 
+r: 3 kartus, eilutėse: 753 754 840 
+radial: 3 kartus, eilutėse: 710 718 
+raids: 2 kartus, eilutėse: 283 
+rail: 2 kartus, eilutėse: 712 728 
+railway: 5 kartus, eilutėse: 460 712 724 
+range: 2 kartus, eilutėse: 224 447 
+ranked: 5 kartus, eilutėse: 578 605 
+ranking: 3 kartus, eilutėse: 899 926 928 
+raphael: 5 kartus, eilutėse: 231 254 264 266 
+rapid: 2 kartus, eilutėse: 204 283 
+rare: 2 kartus, eilutėse: 309 
+rate: 4 kartus, eilutėse: 218 451 578 
+rather: 2 kartus, eilutėse: 204 485 
+rations: 2 kartus, eilutėse: 447 
+ravenna: 4 kartus, eilutėse: 210 214 228 795 
+reached: 5 kartus, eilutėse: 200 258 270 447 520 
+reaching: 2 kartus, eilutėse: 449 578 
+receive: 2 kartus, eilutėse: 447 578 
+recent: 5 kartus, eilutėse: 168 299 309 592 648 
+recognised: 2 kartus, eilutėse: 663 700 
+record: 3 kartus, eilutėse: 317 373 826 
+recorded: 3 kartus, eilutėse: 313 445 449 
+red: 2 kartus, eilutėse: 96 97 
+redeveloped: 2 kartus, eilutėse: 698 712 
+reference: 2 kartus, eilutėse: 138 156 
+references: 2 kartus, eilutėse: 30 745 
+referred: 4 kartus, eilutėse: 141 506 516 714 
+reform: 5 kartus, eilutėse: 188 206 232 447 
+reformation: 2 kartus, eilutėse: 256 268 
+reforms: 2 kartus, eilutėse: 208 242 
+regarded: 2 kartus, eilutėse: 143 594 
+regime: 2 kartus, eilutėse: 283 449 
+region: 5 kartus, eilutėse: 107 141 279 291 522 
+regional: 6 kartus, eilutėse: 208 299 968 
+regions: 3 kartus, eilutėse: 520 748 856 
+reign: 4 kartus, eilutėse: 200 204 234 275 
+related: 4 kartus, eilutėse: 155 630 743 991 
+relations: 5 kartus, eilutėse: 526 751 881 892 893 
+relative: 2 kartus, eilutėse: 311 402 
+relazioni: 2 kartus, eilutėse: 877 878 
+religion: 8 kartus, eilutėse: 200 210 487 488 496 
+religious: 4 kartus, eilutėse: 181 234 498 506 
+relocated: 2 kartus, eilutėse: 242 504 
+remain: 3 kartus, eilutėse: 153 299 642 
+remained: 2 kartus, eilutėse: 228 447 
+remaining: 5 kartus, eilutėse: 447 458 642 
+remains: 2 kartus, eilutėse: 168 960 
+removed: 2 kartus, eilutėse: 681 
+removing: 2 kartus, eilutėse: 208 
+remus: 6 kartus, eilutėse: 156 171 173 174 496 746 
+renaissance: 16 kartus, eilutėse: 145 245 249 254 258 266 520 596 603 615 642 656 675 
+renamed: 2 kartus, eilutėse: 159 724 
+rendina: 2 kartus, eilutėse: 766 973 
+renzo: 2 kartus, eilutėse: 598 966 
+repaired: 2 kartus, eilutėse: 214 216 
+replaced: 3 kartus, eilutėse: 214 234 522 
+represented: 3 kartus, eilutėse: 181 299 529 
+representing: 2 kartus, eilutėse: 188 630 
+represents: 2 kartus, eilutėse: 630 
+repubblica: 2 kartus, eilutėse: 874 875 
+republic: 17 kartus, eilutėse: 143 145 176 177 184 188 275 277 445 500 515 524 576 775 898 
+republican: 3 kartus, eilutėse: 159 200 228 
+republics: 2 kartus, eilutėse: 832 835 
+research: 8 kartus, eilutėse: 147 580 594 598 925 968 
+reserves: 2 kartus, eilutėse: 299 
+resided: 2 kartus, eilutėse: 210 214 
+resident: 2 kartus, eilutėse: 451 856 
+residents: 5 kartus, eilutėse: 141 285 451 518 
+resources: 4 kartus, eilutėse: 147 216 592 984 
+respectively: 2 kartus, eilutėse: 210 592 
+response: 2 kartus, eilutėse: 147 268 
+rest: 4 kartus, eilutėse: 279 496 578 694 
+restaurants: 2 kartus, eilutėse: 460 677 
+restoration: 4 kartus, eilutėse: 204 206 531 576 
+restored: 4 kartus, eilutėse: 206 275 863 
+restrictions: 2 kartus, eilutėse: 718 
+resulting: 2 kartus, eilutėse: 283 679 
+retrieved: 128 kartus, eilutėse: 746 749 750 757 761 762 763 768 770 773 774 776 785 786 794 795 802 803 807 814 816 818 820 822 823 824 827 828 831 832 833 834 836 837 841 847 849 850 851 854 855 856 858 859 860 861 863 864 865 867 868 869 871 872 873 874 875 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 902 904 905 907 908 909 910 911 912 914 916 917 918 919 920 921 922 923 924 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 950 951 952 953 954 955 957 958 959 960 961 962 
+return: 2 kartus, eilutėse: 242 
+returned: 2 kartus, eilutėse: 241 242 
+rich: 3 kartus, eilutėse: 256 266 836 
+richard: 4 kartus, eilutėse: 799 805 843 966 
+richest: 2 kartus, eilutėse: 578 905 
+rienzo: 3 kartus, eilutėse: 242 485 
+right: 2 kartus, eilutėse: 167 218 
+rights: 3 kartus, eilutėse: 137 531 761 
+ringroad: 2 kartus, eilutėse: 710 718 
+rione: 3 kartus, eilutėse: 457 460 502 
+rioni: 2 kartus, eilutėse: 520 872 
+rise: 3 kartus, eilutėse: 204 283 449 
+river: 5 kartus, eilutėse: 291 743 
+roads: 3 kartus, eilutėse: 710 718 
+robert: 4 kartus, eilutėse: 232 811 946 970 
+role: 2 kartus, eilutėse: 214 236 
+roma: 62 kartus, eilutėse: 67 69 96 97 141 151 153 159 495 506 516 522 538 582 605 653 654 693 694 700 702 712 721 724 726 757 758 766 819 822 824 828 856 860 867 868 869 871 877 878 882 949 952 956 957 967 972 973 974 
+roman: 103 kartus, eilutėse: 143 159 168 174 177 181 186 193 199 210 214 218 221 224 228 234 238 242 245 249 252 254 275 277 285 299 422 447 451 480 483 485 496 500 502 506 529 592 596 609 615 622 624 630 636 642 648 656 668 670 672 673 677 679 681 694 710 743 768 775 776 791 832 835 836 915 924 960 966 968 
+romana: 6 kartus, eilutėse: 496 506 681 858 
+romanesco: 4 kartus, eilutėse: 482 485 859 
+romani: 2 kartus, eilutėse: 758 961 
+romano: 3 kartus, eilutėse: 529 681 
+romans: 9 kartus, eilutėse: 127 151 174 184 218 496 673 718 
+romanstyle: 2 kartus, eilutėse: 681 
+rome: 351 kartus, eilutėse: 33 65 66 71 96 97 100 108 137 141 143 145 147 153 159 162 163 165 167 168 170 174 177 181 182 184 197 199 200 204 213 214 223 224 226 228 232 241 242 247 252 254 256 258 261 263 264 268 274 275 279 282 283 285 290 291 293 296 299 302 305 313 315 422 425 445 447 449 451 453 482 485 488 489 493 496 498 500 504 506 511 513 516 520 522 524 528 529 531 535 539 540 569 573 575 576 578 580 582 585 592 594 596 598 602 603 605 609 612 615 619 621 622 624 627 630 633 636 639 642 645 648 651 654 656 658 663 665 673 675 677 684 687 694 698 700 702 705 710 712 714 716 718 724 732 738 753 754 755 756 758 759 761 762 764 767 772 785 786 787 795 798 799 800 802 805 818 819 823 829 831 836 840 841 843 844 846 855 872 873 878 879 882 884 885 897 916 930 931 935 936 938 939 940 945 951 952 958 959 966 969 970 972 973 974 976 987 988 989 991 993 994 996 998 
+rome64: 2 kartus, eilutėse: 238 242 
+romes: 24 kartus, eilutėse: 143 147 159 200 460 483 491 496 498 541 578 580 582 594 598 609 615 673 677 712 718 
+romulus: 17 kartus, eilutėse: 110 153 156 168 171 173 174 182 214 496 506 746 770 866 
+rooms: 2 kartus, eilutėse: 264 598 
+root: 3 kartus, eilutėse: 156 743 
+roots: 2 kartus, eilutėse: 153 485 
+rose: 2 kartus, eilutėse: 299 946 
+rugby: 7 kartus, eilutėse: 700 
+ruins: 4 kartus, eilutėse: 181 224 266 592 
+rule: 2 kartus, eilutėse: 228 275 
+ruled: 4 kartus, eilutėse: 182 200 206 234 
+ruling: 2 kartus, eilutėse: 206 252 
+s: 2 kartus, eilutėse: 831 871 
+s2cid: 6 kartus, eilutėse: 767 791 795 834 841 915 
+sabine: 2 kartus, eilutėse: 182 791 
+sack: 2 kartus, eilutėse: 266 485 
+sacked: 4 kartus, eilutėse: 214 232 266 
+sacking: 2 kartus, eilutėse: 213 223 
+said: 2 kartus, eilutėse: 242 506 
+saint: 5 kartus, eilutėse: 231 254 491 498 
+salvatore: 2 kartus, eilutėse: 968 974 
+same: 3 kartus, eilutėse: 188 204 218 
+san: 8 kartus, eilutėse: 137 264 283 498 718 761 825 
+santa: 5 kartus, eilutėse: 214 457 493 498 654 
+santangelo: 7 kartus, eilutėse: 71 81 249 630 642 941 
+sapienza: 5 kartus, eilutėse: 238 602 605 
+saw: 4 kartus, eilutėse: 186 268 283 598 
+schism: 2 kartus, eilutėse: 242 252 
+school: 11 kartus, eilutėse: 576 605 609 656 795 929 
+sculpture: 4 kartus, eilutėse: 173 596 624 
+sea: 6 kartus, eilutėse: 168 293 311 716 
+search: 2 kartus, eilutėse: 4 5 
+seat: 14 kartus, eilutėse: 147 210 242 496 504 513 515 516 524 529 531 762 
+second: 13 kartus, eilutėse: 190 200 277 445 449 573 578 591 596 603 687 689 
+secretariat: 2 kartus, eilutėse: 147 762 
+secrets: 2 kartus, eilutėse: 785 
+section: 4 kartus, eilutėse: 614 728 730 773 
+secular: 3 kartus, eilutėse: 236 270 810 
+see: 17 kartus, eilutėse: 28 65 90 137 163 422 423 489 511 529 534 627 734 761 812 
+seen: 3 kartus, eilutėse: 197 226 
+senate: 4 kartus, eilutėse: 188 190 228 234 
+senatore: 2 kartus, eilutėse: 234 
+senatorio: 3 kartus, eilutėse: 513 516 
+seoul: 4 kartus, eilutėse: 559 890 891 
+separate: 2 kartus, eilutėse: 208 648 
+september: 19 kartus, eilutėse: 214 283 750 757 794 795 821 834 836 850 874 877 878 879 921 945 950 954 
+sera: 2 kartus, eilutėse: 824 921 
+series: 3 kartus, eilutėse: 195 197 206 
+served: 2 kartus, eilutėse: 208 714 
+services: 3 kartus, eilutėse: 580 712 
+servius: 2 kartus, eilutėse: 182 743 
+set: 5 kartus, eilutėse: 147 174 218 684 
+settlement: 2 kartus, eilutėse: 143 291 
+seule: 2 kartus, eilutėse: 539 
+seven: 5 kartus, eilutėse: 141 182 291 493 754 
+several: 21 kartus, eilutėse: 147 153 168 184 188 204 206 232 266 496 609 630 654 656 689 698 
+shaded: 2 kartus, eilutėse: 299 
+short: 2 kartus, eilutėse: 228 242 
+shortlived: 2 kartus, eilutėse: 275 277 
+show: 3 kartus, eilutėse: 102 103 104 
+sicily: 2 kartus, eilutėse: 186 712 
+siege: 2 kartus, eilutėse: 216 218 
+significant: 2 kartus, eilutėse: 279 592 
+signing: 2 kartus, eilutėse: 531 
+similar: 2 kartus, eilutėse: 206 718 
+simply: 2 kartus, eilutėse: 159 624 
+since: 18 kartus, eilutėse: 145 168 226 228 254 266 500 504 513 516 518 522 535 582 596 675 679 700 
+single: 2 kartus, eilutėse: 576 578 
+sister: 9 kartus, eilutėse: 533 534 883 885 888 890 891 894 977 
+sistine: 3 kartus, eilutėse: 254 264 502 
+sisto: 2 kartus, eilutėse: 254 642 
+site: 6 kartus, eilutėse: 136 143 504 989 1000 
+sites: 5 kartus, eilutėse: 504 594 698 998 
+sixth: 2 kartus, eilutėse: 218 
+sixtus: 3 kartus, eilutėse: 252 268 520 
+size: 7 kartus, eilutėse: 447 578 718 832 834 835 
+slaughterhouse: 2 kartus, eilutėse: 677 
+slave: 2 kartus, eilutėse: 188 
+sleeper: 2 kartus, eilutėse: 712 
+slowly: 2 kartus, eilutėse: 145 285 
+small: 5 kartus, eilutėse: 45 184 188 714 716 
+smallest: 2 kartus, eilutėse: 141 750 
+snow: 2 kartus, eilutėse: 309 823 
+so: 3 kartus, eilutėse: 214 216 460 
+socalled: 3 kartus, eilutėse: 206 529 582 
+social: 8 kartus, eilutėse: 147 188 234 630 673 851 968 
+society: 5 kartus, eilutėse: 218 751 786 934 
+societ�: 2 kartus, eilutėse: 609 933 
+solo: 2 kartus, eilutėse: 538 
+some: 11 kartus, eilutėse: 299 309 447 451 496 498 609 636 648 675 
+sometimes: 2 kartus, eilutėse: 529 592 
+soon: 3 kartus, eilutėse: 242 283 
+source: 5 kartus, eilutėse: 38 419 420 444 718 
+sources: 2 kartus, eilutėse: 445 
+south: 8 kartus, eilutėse: 199 238 471 474 476 559 582 724 
+southeast: 2 kartus, eilutėse: 498 714 
+southern: 4 kartus, eilutėse: 168 485 724 826 
+sovereign: 3 kartus, eilutėse: 529 
+space: 5 kartus, eilutėse: 299 
+spaghetti: 6 kartus, eilutėse: 670 672 681 
+spanish: 3 kartus, eilutėse: 77 299 587 
+special: 2 kartus, eilutėse: 141 881 
+specialised: 4 kartus, eilutėse: 147 576 609 
+sports: 5 kartus, eilutėse: 582 691 693 694 702 
+spot: 2 kartus, eilutėse: 96 97 
+spqr: 3 kartus, eilutėse: 159 422 739 
+spread: 3 kartus, eilutėse: 200 524 791 
+sq: 6 kartus, eilutėse: 117 141 293 299 451 522 
+square: 3 kartus, eilutėse: 508 509 636 
+squares: 2 kartus, eilutėse: 197 283 
+ss: 5 kartus, eilutėse: 693 694 700 
+st: 19 kartus, eilutėse: 79 95 159 232 264 496 498 502 504 508 509 609 636 648 814 
+stadio: 7 kartus, eilutėse: 693 694 697 698 700 
+stadium: 5 kartus, eilutėse: 524 694 698 700 952 
+standard: 2 kartus, eilutėse: 47 52 
+started: 3 kartus, eilutėse: 264 447 724 
+starting: 3 kartus, eilutėse: 228 485 
+state: 10 kartus, eilutėse: 204 218 264 502 524 529 573 
+states: 5 kartus, eilutėse: 145 275 279 576 
+station: 7 kartus, eilutėse: 460 482 712 723 724 726 
+stations: 6 kartus, eilutėse: 712 726 728 730 
+statistiche: 2 kartus, eilutėse: 847 854 
+statistics: 3 kartus, eilutėse: 458 853 856 
+statue: 2 kartus, eilutėse: 264 630 
+statues: 11 kartus, eilutėse: 249 626 627 630 642 
+status: 3 kartus, eilutėse: 504 630 810 
+steps: 5 kartus, eilutėse: 77 299 504 587 863 
+still: 7 kartus, eilutėse: 226 279 447 642 677 908 
+stone: 3 kartus, eilutėse: 168 304 
+storey: 2 kartus, eilutėse: 447 840 
+storia: 2 kartus, eilutėse: 822 922 
+story: 2 kartus, eilutėse: 174 
+strabo: 3 kartus, eilutėse: 174 773 
+stream: 3 kartus, eilutėse: 155 743 
+stronger: 2 kartus, eilutėse: 485 
+structure: 2 kartus, eilutėse: 206 598 
+struggle: 2 kartus, eilutėse: 228 234 
+students: 3 kartus, eilutėse: 602 605 609 
+studi: 2 kartus, eilutėse: 758 942 
+studies: 2 kartus, eilutėse: 270 605 
+studio: 4 kartus, eilutėse: 686 687 689 
+studios: 7 kartus, eilutėse: 147 285 582 686 689 950 951 
+study: 6 kartus, eilutėse: 531 576 578 598 849 931 
+stuffed: 2 kartus, eilutėse: 681 
+style: 5 kartus, eilutėse: 145 615 624 642 
+styles: 3 kartus, eilutėse: 622 642 656 
+subject: 2 kartus, eilutėse: 234 283 
+subsequently: 2 kartus, eilutėse: 232 689 
+suburbs: 3 kartus, eilutėse: 285 449 724 
+succeeded: 2 kartus, eilutėse: 206 994 
+succession: 2 kartus, eilutėse: 206 
+successor: 2 kartus, eilutėse: 234 238 
+successors: 2 kartus, eilutėse: 226 258 
+such: 32 kartus, eilutėse: 147 214 285 496 498 531 576 594 596 602 615 630 636 665 679 694 698 700 812 
+suckled: 2 kartus, eilutėse: 156 174 
+suggest: 3 kartus, eilutėse: 445 447 
+suggests: 2 kartus, eilutėse: 168 218 
+summer: 4 kartus, eilutėse: 131 147 698 
+sunshine: 2 kartus, eilutėse: 417 418 
+support: 6 kartus, eilutėse: 147 168 208 216 232 
+supported: 2 kartus, eilutėse: 234 270 
+supposed: 3 kartus, eilutėse: 283 630 724 
+surpassed: 2 kartus, eilutėse: 283 445 
+surrounding: 2 kartus, eilutėse: 299 
+symbol: 3 kartus, eilutėse: 12 149 159 
+system: 10 kartus, eilutėse: 147 182 206 208 483 506 718 724 732 
+table: 3 kartus, eilutėse: 462 851 852 
+taft: 2 kartus, eilutėse: 914 
+taken: 2 kartus, eilutėse: 143 234 
+talking: 4 kartus, eilutėse: 627 630 
+taranto: 3 kartus, eilutėse: 184 445 865 
+tarquinius: 2 kartus, eilutėse: 182 
+team: 3 kartus, eilutėse: 700 
+teams: 3 kartus, eilutėse: 694 700 702 
+teatro: 2 kartus, eilutėse: 653 654 
+technology: 2 kartus, eilutėse: 147 899 
+television: 2 kartus, eilutėse: 582 687 
+temperature: 8 kartus, eilutėse: 307 309 313 420 825 828 
+temperatures: 3 kartus, eilutėse: 309 311 826 
+tempio: 3 kartus, eilutėse: 500 864 865 
+temple: 8 kartus, eilutėse: 179 199 264 298 609 931 
+temples: 2 kartus, eilutėse: 506 
+temporal: 4 kartus, eilutėse: 228 810 
+termini: 5 kartus, eilutėse: 460 624 712 726 
+terms: 6 kartus, eilutėse: 174 256 516 578 1000 
+territory: 9 kartus, eilutėse: 96 97 200 293 502 504 832 835 
+testaccio: 2 kartus, eilutėse: 677 718 
+text: 2 kartus, eilutėse: 43 1000 
+than: 17 kartus, eilutėse: 188 204 206 224 266 285 447 449 451 460 485 578 605 622 687 
+thanks: 2 kartus, eilutėse: 279 582 
+that: 37 kartus, eilutėse: 137 153 156 168 174 181 204 206 213 216 228 238 242 254 279 291 447 485 498 502 504 524 578 609 630 710 761 
+the: 1757 kartus, eilutėse: 64 92 94 96 97 137 141 143 145 147 151 153 155 156 157 159 167 168 170 173 174 179 181 182 184 186 188 190 195 197 199 200 204 206 208 210 213 214 216 218 221 223 224 226 228 231 232 234 236 238 241 242 247 249 252 254 256 258 263 264 266 268 270 274 275 277 279 283 285 291 293 298 299 304 307 309 311 313 422 445 447 449 451 453 457 458 460 465 483 485 489 493 495 496 498 500 502 504 506 513 515 516 518 520 522 524 529 531 571 573 576 578 580 582 587 591 592 594 596 598 602 603 605 609 615 617 619 621 622 624 630 636 642 647 648 653 654 656 658 663 665 673 675 677 679 686 687 689 693 694 698 700 702 710 712 714 716 718 724 726 728 730 732 742 743 746 748 749 750 752 753 754 755 756 757 759 760 761 762 763 764 765 767 768 770 772 773 774 775 776 784 785 786 787 791 794 795 798 802 803 805 807 812 814 816 818 820 821 822 823 824 825 826 827 828 831 832 833 834 835 836 837 840 841 842 846 847 848 849 850 851 852 853 854 855 856 858 859 863 864 865 866 868 870 871 872 873 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 914 915 916 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 934 938 939 940 941 942 943 944 945 946 950 951 952 953 954 955 956 957 958 959 960 961 962 968 988 989 998 1000 
+their: 15 kartus, eilutėse: 145 174 184 238 252 256 270 518 520 624 630 679 689 
+them: 6 kartus, eilutėse: 168 208 238 299 609 630 
+then: 12 kartus, eilutėse: 145 184 188 224 232 238 264 275 279 518 698 
+theodosius: 2 kartus, eilutėse: 210 
+theories: 2 kartus, eilutėse: 90 153 
+there: 27 kartus, eilutėse: 153 168 188 204 226 270 299 451 460 498 500 576 594 609 630 636 642 648 656 658 732 
+therefore: 2 kartus, eilutėse: 485 656 
+thermae: 2 kartus, eilutėse: 636 698 
+these: 16 kartus, eilutėse: 168 174 228 232 299 309 504 520 524 624 630 694 718 
+they: 14 kartus, eilutėse: 174 206 238 518 520 622 624 630 648 656 
+third: 8 kartus, eilutėse: 141 147 204 592 714 728 787 839 
+this: 51 kartus, eilutėse: 145 167 168 174 186 188 200 204 208 214 228 232 234 236 238 242 247 252 264 268 270 285 291 299 447 449 451 502 506 529 578 614 675 716 718 743 744 997 999 1000 
+those: 5 kartus, eilutėse: 254 458 630 718 
+though: 6 kartus, eilutėse: 218 224 279 609 648 656 
+thousand: 3 kartus, eilutėse: 622 712 732 
+three: 12 kartus, eilutėse: 143 186 210 228 242 529 578 580 702 714 
+throne: 2 kartus, eilutėse: 95 159 
+through: 11 kartus, eilutėse: 168 174 186 200 218 279 483 648 673 712 
+throughout: 2 kartus, eilutėse: 145 283 
+thus: 3 kartus, eilutėse: 226 228 485 
+tiber: 11 kartus, eilutėse: 141 155 254 279 291 502 642 831 
+tiberius: 2 kartus, eilutėse: 188 200 
+tiburtina: 3 kartus, eilutėse: 582 712 956 
+time: 17 kartus, eilutėse: 130 174 186 200 204 213 214 218 228 242 254 256 266 447 621 675 
+times: 6 kartus, eilutėse: 159 204 232 702 770 958 
+tirana: 3 kartus, eilutėse: 561 892 893 
+title: 2 kartus, eilutėse: 204 242 
+to: 268 kartus, eilutėse: 133 141 147 151 155 156 159 167 168 174 182 184 188 190 197 199 200 204 206 208 210 213 214 216 218 224 228 232 234 238 241 242 252 254 256 264 266 268 270 279 283 285 293 299 311 445 447 449 451 458 483 485 496 498 504 506 516 518 522 531 578 580 582 592 594 596 598 603 605 609 615 622 624 630 642 654 656 658 663 673 686 687 689 694 698 700 712 714 718 724 726 730 743 753 798 826 829 832 835 836 837 845 863 900 939 952 959 991 1000 
+today: 7 kartus, eilutėse: 592 596 642 689 710 751 755 
+together: 3 kartus, eilutėse: 228 636 648 
+tokyo: 3 kartus, eilutėse: 563 894 
+took: 6 kartus, eilutėse: 168 174 242 694 724 
+tools: 3 kartus, eilutėse: 41 168 675 
+top: 6 kartus, eilutėse: 11 605 899 926 927 928 
+topped: 2 kartus, eilutėse: 168 681 
+tor: 2 kartus, eilutėse: 605 825 
+total: 6 kartus, eilutėse: 116 218 458 498 578 850 
+tour: 3 kartus, eilutėse: 754 917 959 
+tourism: 6 kartus, eilutėse: 580 584 585 740 756 763 
+tourist: 4 kartus, eilutėse: 147 585 592 988 
+tourists: 4 kartus, eilutėse: 147 592 
+town: 6 kartus, eilutėse: 228 513 516 522 
+towns: 2 kartus, eilutėse: 533 534 
+trade: 2 kartus, eilutėse: 168 677 
+tradition: 4 kartus, eilutėse: 174 182 496 504 
+traditional: 2 kartus, eilutėse: 174 518 
+traffic: 3 kartus, eilutėse: 718 
+train: 2 kartus, eilutėse: 712 732 
+trajans: 7 kartus, eilutėse: 197 594 636 912 
+tram: 2 kartus, eilutėse: 732 
+transformed: 3 kartus, eilutėse: 206 256 658 
+transport: 6 kartus, eilutėse: 27 582 704 705 732 963 
+trastevere: 3 kartus, eilutėse: 299 500 718 
+travel: 4 kartus, eilutėse: 802 947 969 985 
+treaty: 3 kartus, eilutėse: 502 531 812 
+treccani: 3 kartus, eilutėse: 859 860 861 
+trevi: 2 kartus, eilutėse: 73 621 
+tribe: 2 kartus, eilutėse: 832 835 
+tried: 3 kartus, eilutėse: 206 228 449 
+trinit�: 2 kartus, eilutėse: 77 587 
+triumvirate: 2 kartus, eilutėse: 188 190 
+troops: 4 kartus, eilutėse: 274 279 
+tunis: 2 kartus, eilutėse: 565 895 
+turn: 5 kartus, eilutėse: 155 168 206 256 
+tuscan: 2 kartus, eilutėse: 266 485 
+twin: 3 kartus, eilutėse: 496 533 534 
+twinning: 3 kartus, eilutėse: 879 892 893 
+twins: 3 kartus, eilutėse: 156 173 174 
+two: 21 kartus, eilutėse: 184 188 200 206 228 277 447 485 529 598 605 609 622 630 636 
+typical: 4 kartus, eilutėse: 485 670 672 681 
+um: 2 kartus, eilutėse: 810 
+uma: 2 kartus, eilutėse: 810 
+un: 2 kartus, eilutėse: 147 
+under: 26 kartus, eilutėse: 141 145 147 188 200 206 224 232 234 242 256 258 268 275 279 445 447 520 648 728 1000 
+underground: 3 kartus, eilutėse: 648 721 728 
+undertook: 2 kartus, eilutėse: 204 206 
+unesco: 3 kartus, eilutėse: 136 147 761 
+unification: 4 kartus, eilutėse: 206 274 277 531 
+union: 12 kartus, eilutėse: 141 147 466 531 578 700 736 
+unique: 2 kartus, eilutėse: 529 592 
+united: 14 kartus, eilutėse: 147 279 529 550 557 566 576 851 
+units: 2 kartus, eilutėse: 208 520 
+universale: 2 kartus, eilutėse: 582 724 
+universities: 11 kartus, eilutėse: 582 603 605 609 926 927 928 
+university: 27 kartus, eilutėse: 238 498 602 605 609 754 765 787 837 840 841 927 930 931 959 
+universit�: 3 kartus, eilutėse: 609 858 942 
+unprecedented: 2 kartus, eilutėse: 204 208 
+until: 17 kartus, eilutėse: 145 195 206 216 224 238 242 252 285 447 502 518 522 636 642 700 
+up: 6 kartus, eilutėse: 143 184 449 504 529 732 
+update: 4 kartus, eilutėse: 578 
+upon: 2 kartus, eilutėse: 206 
+urban: 16 kartus, eilutėse: 145 168 188 218 453 502 732 798 800 803 848 849 850 963 968 
+urbe: 3 kartus, eilutėse: 506 714 819 
+urbs: 6 kartus, eilutėse: 91 143 159 767 
+use: 3 kartus, eilutėse: 214 679 1000 
+used: 7 kartus, eilutėse: 200 447 483 615 624 712 
+using: 3 kartus, eilutėse: 698 718 1000 
+v: 7 kartus, eilutėse: 145 252 266 268 520 774 
+valentinian: 2 kartus, eilutėse: 210 447 
+vandals: 2 kartus, eilutėse: 223 447 
+variety: 3 kartus, eilutėse: 506 603 656 
+various: 4 kartus, eilutėse: 90 458 502 609 
+vary: 3 kartus, eilutėse: 309 311 447 
+vast: 3 kartus, eilutėse: 580 596 
+vatican: 30 kartus, eilutėse: 79 96 97 141 252 264 279 283 489 496 498 502 504 509 529 576 591 592 609 647 656 742 
+veientane: 2 kartus, eilutėse: 832 835 
+venues: 3 kartus, eilutėse: 582 654 698 
+verb: 4 kartus, eilutėse: 155 743 
+very: 5 kartus, eilutėse: 214 309 447 580 677 
+vi: 2 kartus, eilutėse: 252 810 
+via: 6 kartus, eilutėse: 210 582 658 662 665 891 
+victory: 2 kartus, eilutėse: 190 204 
+vienna: 2 kartus, eilutėse: 275 712 
+view: 10 kartus, eilutėse: 38 39 168 263 630 756 791 966 1001 
+vii: 3 kartus, eilutėse: 232 258 485 
+viii: 3 kartus, eilutėse: 242 502 810 
+villa: 14 kartus, eilutėse: 264 298 299 304 609 636 698 
+village: 4 kartus, eilutėse: 168 204 698 
+villas: 5 kartus, eilutėse: 299 592 622 636 
+virgil: 2 kartus, eilutėse: 143 174 
+visigoths: 2 kartus, eilutėse: 213 214 
+visited: 8 kartus, eilutėse: 147 591 592 596 760 909 
+visual: 2 kartus, eilutėse: 624 687 
+vita: 3 kartus, eilutėse: 285 485 
+vittorio: 5 kartus, eilutėse: 641 642 658 965 
+vol: 3 kartus, eilutėse: 912 965 971 
+w: 3 kartus, eilutėse: 775 798 914 
+walls: 9 kartus, eilutėse: 232 274 279 449 498 502 520 995 
+war: 19 kartus, eilutėse: 188 190 224 266 279 283 285 449 496 689 702 724 832 835 
+ward: 2 kartus, eilutėse: 832 835 
+warfare: 3 kartus, eilutėse: 184 188 836 
+wars: 6 kartus, eilutėse: 184 186 204 206 447 
+was: 146 kartus, eilutėse: 143 147 153 159 168 174 182 184 188 200 204 206 208 210 214 216 224 226 228 232 234 238 242 252 256 264 266 270 275 277 279 283 291 313 445 447 449 485 496 500 502 518 578 596 602 605 609 615 621 622 624 636 642 656 658 673 675 677 689 698 700 702 724 726 728 730 743 999 
+washington: 3 kartus, eilutėse: 566 826 896 
+water: 5 kartus, eilutėse: 622 624 825 
+way: 5 kartus, eilutėse: 145 208 299 504 677 
+wayback: 4 kartus, eilutėse: 825 866 873 989 
+wealth: 2 kartus, eilutėse: 195 256 
+wealthy: 2 kartus, eilutėse: 234 596 
+well: 13 kartus, eilutėse: 147 270 580 582 592 605 609 630 654 675 687 712 
+were: 48 kartus, eilutėse: 174 186 188 204 214 216 226 228 232 242 254 270 275 279 283 299 309 451 483 496 502 518 520 531 578 605 624 642 648 656 665 689 698 
+west: 4 kartus, eilutėse: 145 218 299 502 
+western: 15 kartus, eilutėse: 141 206 210 214 221 224 236 242 252 469 472 689 795 
+what: 2 kartus, eilutėse: 214 750 
+when: 12 kartus, eilutėse: 206 270 285 445 449 502 504 596 675 718 
+where: 9 kartus, eilutėse: 238 270 293 502 531 658 687 718 724 
+whereas: 2 kartus, eilutėse: 204 732 
+which: 74 kartus, eilutėse: 145 153 155 157 168 188 190 200 204 206 208 214 216 224 234 242 252 264 268 275 283 291 451 483 485 500 504 506 520 522 524 529 531 578 592 598 609 622 630 636 642 648 654 656 694 698 700 710 714 716 
+while: 7 kartus, eilutėse: 143 168 206 299 447 451 
+white: 3 kartus, eilutėse: 96 97 681 
+whitney: 2 kartus, eilutėse: 447 841 
+who: 27 kartus, eilutėse: 174 200 204 214 226 232 234 238 242 252 264 266 270 283 451 518 622 658 675 694 908 
+whole: 2 kartus, eilutėse: 451 578 
+whom: 2 kartus, eilutėse: 279 283 
+whose: 7 kartus, eilutėse: 156 184 200 228 234 656 694 
+wide: 4 kartus, eilutėse: 54 168 283 447 
+widely: 5 kartus, eilutėse: 483 615 663 679 
+wikidata: 2 kartus, eilutėse: 986 997 
+wikimedia: 3 kartus, eilutėse: 99 1000 1002 
+wikipedia: 2 kartus, eilutėse: 4 64 
+will: 4 kartus, eilutėse: 728 730 
+william: 2 kartus, eilutėse: 839 914 
+wine: 2 kartus, eilutėse: 447 681 
+winter: 3 kartus, eilutėse: 218 447 823 
+winters: 2 kartus, eilutėse: 305 309 
+with: 94 kartus, eilutėse: 141 145 147 156 159 167 168 174 182 184 188 204 210 214 218 228 234 242 249 256 258 266 268 279 283 285 299 305 309 447 451 453 458 485 496 502 535 578 596 598 602 603 605 630 636 642 656 677 679 681 687 689 693 694 698 710 712 714 724 728 743 879 
+within: 13 kartus, eilutėse: 101 141 147 449 502 504 520 529 648 
+without: 2 kartus, eilutėse: 309 718 
+wolf: 2 kartus, eilutėse: 156 173 
+word: 2 kartus, eilutėse: 156 157 
+work: 3 kartus, eilutėse: 596 728 
+worked: 3 kartus, eilutėse: 656 658 675 
+workers: 2 kartus, eilutėse: 578 
+working: 3 kartus, eilutėse: 582 656 675 
+works: 4 kartus, eilutėse: 254 258 598 700 
+world: 61 kartus, eilutėse: 94 136 141 143 147 159 200 264 283 449 460 465 483 504 529 573 576 578 592 605 609 654 663 687 689 694 698 724 749 750 752 761 776 803 812 821 839 842 848 851 853 899 900 901 909 926 927 928 
+world122: 2 kartus, eilutėse: 513 516 
+worlds: 11 kartus, eilutėse: 571 578 580 594 602 603 605 615 760 905 907 
+worldwide: 4 kartus, eilutėse: 141 483 576 603 
+worthy: 2 kartus, eilutėse: 540 
+would: 4 kartus, eilutėse: 167 208 578 743 
+wwwtiranagoval: 2 kartus, eilutėse: 892 893 
+wwwtreccaniit: 3 kartus, eilutėse: 859 860 861 
+x: 4 kartus, eilutėse: 252 258 485 
+xiv: 2 kartus, eilutėse: 270 520 
+year: 7 kartus, eilutėse: 242 277 279 316 427 506 592 
+years: 16 kartus, eilutėse: 145 168 182 213 242 247 254 266 285 451 506 518 592 622 656 
+yellow: 2 kartus, eilutėse: 96 97 
+yerevan: 2 kartus, eilutėse: 567 897 
+yet: 3 kartus, eilutėse: 168 578 630 
+york: 6 kartus, eilutėse: 557 663 770 811 889 958 
+you: 2 kartus, eilutėse: 658 1000 
+young: 2 kartus, eilutėse: 210 596 
+younger: 2 kartus, eilutėse: 168 451 
+zone: 2 kartus, eilutėse: 130 850 

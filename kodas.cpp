@@ -56,6 +56,34 @@ set<string> TLDnuskaitymas(const string& failo_pavadinimas)
 }
 bool ar_zodis_turi_tld(const string& zodis, const set<string>& domenai)
 {
+    const string domeno_tesinys = "/";                // kas gali eiti po galiojančio TLD
+    size_t ilgis = zodis.size();
+
+    for (size_t i = 0; i < ilgis; ++i)
+    {
+        if (zodis[i] != '.') continue;          // ieškom taško
+
+        // jei prieinam taska, ziurim kas eina po jo; einam nuo sekančio simbolio po taško iki pabaigos
+        size_t j = i + 1;
+        while (j < ilgis && std::isalpha(static_cast<unsigned char>(zodis[j])))
+        {
+            ++j; // raidziu kiekis po tasko
+        }
+        if (j == i + 1) continue;                    // kitas simbolis po taško
+
+        string galimas_tld = zodis.substr(i, j - i);   // kerpama nuo i - taško, iki raidziu pab - ilgis
+
+        if (domenai.find(galimas_tld) != domenai.end())
+        {
+            if (j == ilgis) return true;               // po tld nieko nėra, galioja
+            char kitas = zodis[j];      //tikrinam kitą simbolį po tld
+            if (domeno_tesinys.find(kitas) != string::npos)
+                return true;                         // prasideda kelias / užklausa / kt. – OK
+        }
+    }
+
+    return false;
+    /*
     size_t tasko_vieta = zodis.find('.');
     if (tasko_vieta == string::npos) return false;
     //galune
@@ -64,6 +92,7 @@ bool ar_zodis_turi_tld(const string& zodis, const set<string>& domenai)
 
     // Patikriname ar ending yra tarp mūsų žinomų TLD
     return domenai.find(pabaiga) != domenai.end();
+    */
 }
 string trim_punctuation(const string& s) {
     size_t end = s.size();
@@ -77,9 +106,14 @@ string trim_punctuation(const string& s) {
     return s.substr(0, end);
 }
 
+bool turi_raides(const string& zodis, const string& ieskomas)
+{
+    return zodis.find(ieskomas) != string::npos; // ar !=nerasta
+}
+
 int main()
 {
-    std::ifstream in ("tekstinis_failas.txt");
+    std::ifstream in ("tekstinis_naujas.txt");
     if (!in.is_open())
     {
         std::cerr << "Problema failo <tekstinis_failas.txt> nuskaityme" << endl;
@@ -130,9 +164,20 @@ int main()
         }
     }
     out.close();
-
+    const string ieskomas = "all";
+    int viso_all = 0;
+    set<string> unikalus_all;
+    for (const auto& [zodis, pasikartojimas] : zodziu_skaicius)
+    {
+        if (turi_raides(zodis, ieskomas))
+        {
+            unikalus_all.insert(zodis);
+            viso_all += pasikartojimas;
+        }
+    }
+    
     // URL paieska
-    std::ifstream in2("tekstas_su_url.txt");
+    std::ifstream in2("tekstinis_naujas.txt");
     std::ofstream out2("surasti_url.txt");
     if (!in2.is_open() || !out2.is_open()) {
         std::cerr << "Klaida atidarant URL tekstą ar išvedimo failą\n";
@@ -153,6 +198,18 @@ int main()
     in2.close();
     out2.close();
 
-    return 0;
+    std::ofstream out3("zodziai_su_all.txt");
+    if (!out3.is_open()) {
+        std::cerr << "Klaida atidarant išvedimo failą" << endl;
+        return 1;
+    }
+    out3 << "Rasta „all“ pasikartojimų " << viso_all << endl;
+    out3 << "Unikalūs žodžiai: " << endl;
+    for (const auto& zodis : unikalus_all) 
+    {
+        out3 << zodis << endl;
+    }
+    out3.close();
 
+    return 0;
 }
